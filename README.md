@@ -77,21 +77,11 @@
 
 </td></tr>
 
-
-
-
-
-
-
 </table>
 
-
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/hr.gif" />
-
 <div align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/man_run.png" width="250" height="250" />
-
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
@@ -120,15 +110,12 @@
       </picture>
   </tr>
 </table>
-
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/hr.gif" />
 
 <div align="center" >
-
 <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/mb.png" width="250" height="250" />
-
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=RudyGo8&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
@@ -152,29 +139,18 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-
-
-
-
-
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -207,17 +183,13 @@
 </div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/hr.gif" />
-
 <div align="center">
-
 <img width="36%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/githubgif.gif" />
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
