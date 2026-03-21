@@ -27,7 +27,7 @@
 
 #  🙋 Hello
 
-<table>
+<table width="100%">
 
 <tr><td>
 
@@ -35,10 +35,10 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/jobs.png" />
 
-<p>嗨，你好，我是Rudy。热爱AI、运动、读书、旅行。</p>
-<p>热爱人工智能时代，希望能成为一名优秀的AI应用开发工程师。</p>
-<p>学无止境，你可以做到的！</p>
-<p><strong>You are more than what you have become now！</strong></p>
+<p>&emsp;&emsp;嗨，你好，我是Rudy。热爱AI、运动、读书、旅行。</p>
+<p>&emsp;&emsp;热爱人工智能时代，希望能成为一名优秀的AI应用开发工程师。</p>
+<p>&emsp;&emsp;学无止境，你可以做到的！</p>
+<p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
 
 </tr></td>
 
