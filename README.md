@@ -36,7 +36,7 @@
 <p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
 </tr></td>
-<tr><td width="100%">
+<tr><td>
 
 ### 📃 Recent Blog
 
