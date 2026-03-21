@@ -60,7 +60,7 @@
 
 <p>&emsp;&emsp;嗨，你好，我是Rudy。热爱AI、运动、读书、旅行。</p>
 <p>&emsp;&emsp;热爱人工智能时代，希望能成为一名优秀的AI应用开发工程师。</p>
-<p>&emsp;&emsp;我觉得我还有很大的进步空间！</p>
+<p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
 
 </tr></td>
