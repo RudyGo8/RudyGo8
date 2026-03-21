@@ -115,7 +115,7 @@
 ![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
 
-<img src="https://skillicons.dev/icons?i=python,java,js,vue,django,spring,mysql,redis,git,docker,linux,vscode" /><br>
+<img src="https://skillicons.dev/icons?i=python,java,js,vue,django,spring,mysql,redis,git,docker,linux,pycharm,vscode" /><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/profile-3d-contrib/profile-night-rainbow.svg" />
