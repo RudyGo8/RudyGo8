@@ -25,6 +25,8 @@
 
 </div>
 
+<div align="center">
+
 #  🙋 Hello
 <table style="width: 100%;">
 <tr><td>
@@ -47,6 +49,8 @@
 
 </td></tr>
 </table>
+
+</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/hr.gif" />
 <div align="center">
