@@ -35,7 +35,7 @@
 <p>&emsp;&emsp;热爱人工智能时代，希望能成为一名优秀的AI应用开发工程师。</p>
 <p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
-</td></tr>
+</tr></td>
 <tr><td width="100%">
 
 ### 📃 Recent Blog
