@@ -40,7 +40,7 @@
 <p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
 
-</td></tr>
+</tr></td>
 
 <tr><td>
 
@@ -51,7 +51,7 @@
 <!-- feed start -->
 - [我的博客主页](https://blog.grover.top/)
 
-</td></tr>
+</tr></td>
 
 </table>
 
