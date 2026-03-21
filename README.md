@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I%27m+Rudy！😊;Rudy祝您天天开心!❤️&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boy coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boy coding.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding.gif" />
 </picture>
 
 <div>&nbsp;</div>
@@ -30,7 +30,7 @@
 <tabl width="100%">
 
 <tr><td>
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/Ma Sike.png" />
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/MaSike.png" />
 
 ### 🤺 About Me
 <p>&emsp;&emsp;嗨，你好，我是Rudy，热爱AI、运动、读书、旅行。</p>
