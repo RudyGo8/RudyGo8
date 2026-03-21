@@ -18,7 +18,7 @@
   <a href="https://space.bilibili.com/392087867/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=RudyGo8&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  <!-- wakatime -->
+
   
 </div>
 
@@ -28,23 +28,6 @@
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-
-
-<div align="center">
-
-<!-- <table style="margin-top: 20px;">
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://files.guoqi.dev/wxpay.png" width="250px"  alt="wxpay" style="border-radius:10px;" />
-      </td>
-      <td align="center">
-        <img src="https://files.guoqi.dev/alipay.jpg" width="250px"  alt="alipay" style="border-radius:10px;" />
-      </td>
-    </tr>
-  </tbody>
-</table> -->
-</div>
 </div>
 
 
@@ -63,7 +46,7 @@
 <p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
 
-</tr></td>
+</td></tr>
 
 <tr><td>
 
@@ -73,10 +56,8 @@
 
 <!-- feed start -->
 - [我的博客主页](https://blog.grover.top/)
-<!-- feed end -->
 
 </td></tr>
-
 </table>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/hr.gif" />
@@ -88,17 +69,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%ffffff" />
     <img alt="Jokes Card" src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" />
   </picture>
-</div>
-
-<img align="left" width="150" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/left.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RudyGo8&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RudyGo8&theme=light&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudyGo8&theme=dark&hide_border=true" />
-</picture>
-<img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/right.png" />
-
-<img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/base.svg" />
 
 <table>
   <tr>
@@ -135,44 +105,20 @@
 
 <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/man.png" width="250" height="250" />
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Redis Badge](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
-<!-- svg -->
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
-<!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/github.webp">
+<img src="https://skillicons.dev/icons?i=python,java,js,vue,django,spring,mysql,redis,git,docker,linux,vscode" /><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -182,40 +128,22 @@
 
 </div>
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/hr.gif" />
 <div align="center">
-<img width="36%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/githubgif.gif" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/base.svg" alt="base" />
+<img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/people.followers.svg" alt="people.followers" />
+
+
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/people.followers.svg" alt="people.followers" /></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/repositories.pinned.svg" alt="repositories.pinned" />
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/calendar.full.svg" alt="calendar.full" />
+    </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-</table>
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
-<img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/icon.png" />
-</div>
 
 </div>
