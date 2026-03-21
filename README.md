@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Rudy祝您今天愉快!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Rudy祝您今天拥有快乐!&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/coding.gif" />
@@ -22,21 +22,21 @@
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/profile-snake-contrib/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
+<div align="center">
+<a href="https://www.buymeacoffee.com/guoqisun" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" />
+</a>
 
 </div>
-
 #  🙋 Hello
-
-<table width="100%">
-
+<table>
 <tr><td>
-
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/jobs.png" />
+<img align="right" width="99" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是Rudy。热爱AI、运动、读书、旅行。</p>
-<p>&emsp;&emsp;热爱人工智能时代，希望能成为一名优秀的AI应用开发工程师。</p>
+<p>&emsp;&emsp;热爱人工智能时代，想要通过AI创造实用价值，希望能成为一名优秀的AI应用开发工程师。</p>
 <p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
 
@@ -51,7 +51,7 @@
 <!-- feed start -->
 - [我的博客主页](https://blog.grover.top/)
 
-</tr></td>
+</td></tr>
 
 </table>
 
