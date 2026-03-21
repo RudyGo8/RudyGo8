@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I%27m+Rudy！😊;Rudy祝您天天开心!❤️&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding_compressed.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding_compressed.gif" />
 </picture>
 
 <div>&nbsp;</div>
