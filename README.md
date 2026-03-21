@@ -28,16 +28,22 @@
 <div align="center">
 
 #  🙋 Hello
-<table style="width: 1200px;">
+
+<table>
+
 <tr><td>
+
 ### 🤺 About Me
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是Rudy。热爱AI、运动、读书、旅行。</p>
 <p>&emsp;&emsp;热爱人工智能时代，希望能成为一名优秀的AI应用开发工程师。</p>
 <p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
-</tr></td>
+
+</td></tr>
+
 <tr><td>
 
 ### 📃 Recent Blog
@@ -48,6 +54,7 @@
 - [我的博客主页](https://blog.grover.top/)
 
 </td></tr>
+
 </table>
 
 </div>
