@@ -26,7 +26,7 @@
 </div>
 
 #  🙋 Hello
-<table width="100%">
+<table style="width: 100%;">
 <tr><td>
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/jobs.png" />
