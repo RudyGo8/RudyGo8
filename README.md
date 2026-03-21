@@ -33,9 +33,9 @@
 <img align="right" width="120" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/masike.png" />
 
 ### 🤺 About Me
-<p>&emsp;&emsp;嗨，你好，我是Rudy，一名热爱AI、运动、读书、旅行的热情boy</p>
+<p>&emsp;&emsp;嗨，你好，我是Rudy，一名热爱AI、运动、读书、旅行的热情boy~</p>
 <p>&emsp;&emsp;处于人工智能时代，善用AI工具生产更多价值，希望能成为一名优秀的AI应用开发工程师。</p>
-<p>&emsp;&emsp;人生学无止境，坚持就是胜利！</p>
+<p>&emsp;&emsp;人生学无止境，终生学习，坚持就是胜利！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
  </td>
   </tr>
