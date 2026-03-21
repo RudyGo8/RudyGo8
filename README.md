@@ -46,7 +46,7 @@
 
 </td></tr>
 
-<tr><td>
+<tr><td width="100%">
 
 ### 📃 Recent Blog
 
