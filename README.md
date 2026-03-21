@@ -30,7 +30,7 @@
 <tabl width="100%">
 
 <tr><td>
-<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/MaSike.png" />
+<img align="right" width="120" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/masike.png" />
 
 ### 🤺 About Me
 <p>&emsp;&emsp;嗨，你好，我是Rudy，热爱AI、运动、读书、旅行。</p>
