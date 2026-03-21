@@ -28,7 +28,7 @@
 <div align="center">
 
 #  🙋 Hello
-<table style="width: 100%;">
+<table style="width: 1200px;">
 <tr><td>
 ### 🤺 About Me
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/jobs.png" />
