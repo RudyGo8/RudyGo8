@@ -77,48 +77,6 @@
 
 </td></tr>
 
-<!-- <tr><td>
-
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RudyGo8&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=RudyGo8&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RudyGo8&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr> -->
-
-<tr><td>
-
-### 📊 WakaTime
-
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                455 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-🌆 Daytime                637 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-🌃 Evening                569 commits         ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-🌙 Night                  606 commits         ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   360 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Tuesday                  327 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Thursday                 302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Saturday                 264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Sunday                   331 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
