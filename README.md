@@ -111,7 +111,9 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![PyCharm Badge](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat)
 ![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+
 
 <img src="https://skillicons.dev/icons?i=python,java,js,vue,django,spring,mysql,redis,git,docker,linux,vscode" /><br>
 
