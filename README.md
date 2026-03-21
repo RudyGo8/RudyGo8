@@ -5,7 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding_compressed.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding_compressed.gif" />
+  <img height=200,width=300, src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/boycoding_compressed.gif" />
 </picture>
 
 <div>&nbsp;</div>
