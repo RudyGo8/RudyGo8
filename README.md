@@ -9,15 +9,12 @@
 </picture>
 
 <div>&nbsp;</div>
-
 <div>
- 
   <a href="https://blog.grover.top/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
   <a href="./assets/images/wechat.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
   <a href="https://space.bilibili.com/392087867/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=RudyGo8&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  
 </div>
 
 <picture>
@@ -28,24 +25,17 @@
 
 </div>
 
-
 #  🙋 Hello
-
-<table width="100%">
-
-<tr><td width="100%">
-
+<table>
+<tr><td>
 ### 🤺 About Me
-
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/jobs.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是Rudy。热爱AI、运动、读书、旅行。</p>
 <p>&emsp;&emsp;热爱人工智能时代，希望能成为一名优秀的AI应用开发工程师。</p>
 <p>&emsp;&emsp;学无止境，你可以做到的！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
-
 </td></tr>
-
 <tr><td width="100%">
 
 ### 📃 Recent Blog
