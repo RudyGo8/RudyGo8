@@ -34,7 +34,7 @@
 
 ### 🤺 About Me
 <p>&emsp;&emsp;嗨，你好，我是Rudy，一名热爱AI、运动、读书、旅行的热情boy~</p>
-<p>&emsp;&emsp;处于人工智能时代，善用AI工具生产更多价值，希望能成为一名优秀的AI应用开发工程师。</p>
+<p>&emsp;&emsp;处于人工智能时代，善用AI工具产生价值，希望能成为一名优秀的AI应用开发工程师。</p>
 <p>&emsp;&emsp;人生学无止境，立誓终生学习，坚持就是胜利！</p>
 <p>&emsp;&emsp;<strong>You are more than what you have become now！</strong></p>
  </td>
