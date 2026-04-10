@@ -85,7 +85,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/hr.gif" />
 
 <div align="center" >
-<img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/mb.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/chatbot.gif" width="250" height="250" />
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=RudyGo8&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
