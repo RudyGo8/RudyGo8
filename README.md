@@ -94,7 +94,7 @@
   <tr>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/054a8a1e-44cd-469f-a11a-36e92bead87b.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/60023ab8-2e3e-4a4e-9e80-2cf1b1b077b1.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
