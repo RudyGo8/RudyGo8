@@ -5,7 +5,58 @@
       "total_seconds": 0.0,
       "languages": {},
       "editors": {}
+    },
+    "2026-04-05": {
+      "date": "2026-04-05",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
+    },
+    "2026-04-06": {
+      "date": "2026-04-06",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
+    },
+    "2026-04-07": {
+      "date": "2026-04-07",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
+    },
+    "2026-04-08": {
+      "date": "2026-04-08",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
+    },
+    "2026-04-09": {
+      "date": "2026-04-09",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
+    },
+    "2026-04-11": {
+      "date": "2026-04-11",
+      "total_seconds": 1474.8863,
+      "languages": {
+        "Other": 1115.2363,
+        "Python": 181.193,
+        "SQL": 166.351,
+        "JavaScript": 10.291,
+        "Java": 0.823,
+        "YAML": 0.672,
+        "Markdown": 0.32,
+        "Text": 0.0
+      },
+      "editors": {
+        "Sublime Text": 1115.2363,
+        "PyCharm": 181.193,
+        "DBeaver": 166.351,
+        "VS Code": 10.291,
+        "IntelliJ IDEA": 1.815
+      }
     }
   },
-  "updated_at": "2026-04-11T12:38:21.889239+08:00"
+  "updated_at": "2026-04-11T12:55:34.186108+08:00"
 }
