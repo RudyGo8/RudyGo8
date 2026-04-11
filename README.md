@@ -92,6 +92,8 @@
 
 <table>
   <tr>
+    ## ⏱️ WakaTime 年度统计
+    ![WakaTime Yearly Stats](./stats/yearly.svg)
     <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/3f61cc25-9514-4898-8ca5-f3b81ad1c2c0.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/90082d28-ef03-4ccb-a8ff-72ef7566d9a1.svg" width="500" alt="Wakatime"/></td>
   </tr>
