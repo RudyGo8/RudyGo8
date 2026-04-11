@@ -15,6 +15,9 @@
   <a href="https://space.bilibili.com/392087867/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=RudyGo8&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+   <a href="https://wakatime.com/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a">
+    <img src="https://wakatime.com/badge/user/2a6b98ae-bc31-4722-8c73-f8a8dd26726a.svg" alt="wakatime" />
+  </a>
 </div>
 
 <picture>
