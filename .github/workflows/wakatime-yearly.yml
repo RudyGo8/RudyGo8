@@ -1,0 +1,36 @@
+name: Update WakaTime Yearly Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "20 0 * * *"   # 每天 UTC 00:20 跑一次，可自行改
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run updater
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_TZ: Asia/Shanghai
+        run: python scripts/update_wakatime_yearly.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/yearly.json stats/yearly.svg
+          git diff --cached --quiet || git commit -m "chore: update yearly wakatime stats"
+          git push
