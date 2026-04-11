@@ -1,0 +1,14 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="WakaTime yearly stats">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <text x="40" y="50" font-size="28" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif">WakaTime 2026 年度统计</text>
+  <text x="40" y="85" font-size="18" fill="#58a6ff" font-family="Arial, Helvetica, sans-serif">总计：0.0 小时</text>
+
+  <line x1="70" y1="330" x2="830" y2="330" stroke="#30363d" />
+  <line x1="70" y1="150" x2="70" y2="330" stroke="#30363d" />
+
+  <rect x="70" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="132" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="194" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="256" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="318" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="380" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="442" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="504" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="566" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="628" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="690" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" /><rect x="752" y="330.0" width="42" height="0.0" rx="6" fill="#58a6ff" />
+  <text x="91.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">1月</text><text x="153.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">2月</text><text x="215.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">3月</text><text x="277.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">4月</text><text x="339.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">5月</text><text x="401.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">6月</text><text x="463.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">7月</text><text x="525.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">8月</text><text x="587.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">9月</text><text x="649.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">10月</text><text x="711.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">11月</text><text x="773.0" y="352" text-anchor="middle" font-size="12" fill="#8b949e">12月</text>
+
+  <text x="40" y="380" font-size="14" fill="#8b949e" font-family="Arial, Helvetica, sans-serif">Top Languages: 暂无数据</text>
+  <text x="40" y="405" font-size="14" fill="#8b949e" font-family="Arial, Helvetica, sans-serif">Top Editors: 暂无数据</text>
+</svg>
