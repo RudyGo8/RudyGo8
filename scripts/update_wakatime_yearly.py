@@ -158,10 +158,20 @@ def generate_svg(stats: dict) -> str:
 
 def main():
     now = datetime.now(tz)
-    yesterday = (now - timedelta(days=1)).date().isoformat()
+    today = now.date()
 
     store = load_store()
-    store["days"][yesterday] = fetch_summary_for_day(yesterday)
+
+    # 每次都回填最近 7 天，避免时区/延迟导致抓空
+    start_day = today - timedelta(days=6)
+    end_day = today
+
+    current = start_day
+    while current <= end_day:
+        day_str = current.isoformat()
+        store["days"][day_str] = fetch_summary_for_day(day_str)
+        current += timedelta(days=1)
+
     store["updated_at"] = now.isoformat()
     save_store(store)
 
