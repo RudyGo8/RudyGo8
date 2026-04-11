@@ -98,8 +98,8 @@
 </p>
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/90082d28-ef03-4ccb-a8ff-72ef7566d9a1.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@Rudy_AI/3f10066e-6418-46fb-b6b1-b559e380bc4a.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/90082d28-ef03-4ccb-a8ff-72ef7566d9a1.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
