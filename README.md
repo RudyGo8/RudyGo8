@@ -89,11 +89,13 @@
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
 
 <!-- <div><img src="https://github-profile-trophy.vercel.app/?username=RudyGo8&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div> -->
+<h2>⏱️ WakaTime 年度统计</h2>
 
+<p align="center">
+  <img src="./stats/yearly.svg" width="860" alt="WakaTime Yearly Stats" />
+</p>
 <table>
   <tr>
-    ## ⏱️ WakaTime 年度统计
-    ![WakaTime Yearly Stats](./stats/yearly.svg)
     <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/3f61cc25-9514-4898-8ca5-f3b81ad1c2c0.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@2a6b98ae-bc31-4722-8c73-f8a8dd26726a/90082d28-ef03-4ccb-a8ff-72ef7566d9a1.svg" width="500" alt="Wakatime"/></td>
   </tr>
