@@ -69,12 +69,13 @@
     },
     "2026-04-13": {
       "date": "2026-04-13",
-      "total_seconds": 1716.944,
+      "total_seconds": 14833.665,
       "languages": {
-        "Python": 1099.01,
-        "YAML": 514.027,
+        "Python": 13937.674,
+        "YAML": 514.043,
+        "Other": 237.164,
         "Vue.js": 79.188,
-        "Other": 16.625,
+        "Markdown": 57.502,
         "JavaScript": 5.48,
         "CSS": 1.08,
         "HTML": 0.886,
@@ -82,10 +83,16 @@
         "textmate": 0.041
       },
       "editors": {
-        "PyCharm": 1613.078,
+        "PyCharm": 14729.799,
         "VS Code": 103.866
       }
+    },
+    "2026-04-14": {
+      "date": "2026-04-14",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-04-13T15:28:36.970288+08:00"
+  "updated_at": "2026-04-14T09:47:16.013765+08:00"
 }
