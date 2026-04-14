@@ -89,10 +89,14 @@
     },
     "2026-04-14": {
       "date": "2026-04-14",
-      "total_seconds": 0.0,
-      "languages": {},
-      "editors": {}
+      "total_seconds": 6112.221,
+      "languages": {
+        "Python": 6112.221
+      },
+      "editors": {
+        "PyCharm": 6112.221
+      }
     }
   },
-  "updated_at": "2026-04-14T09:47:16.013765+08:00"
+  "updated_at": "2026-04-14T14:21:39.844259+08:00"
 }
