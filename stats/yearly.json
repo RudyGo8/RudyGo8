@@ -74,9 +74,9 @@
         "Python": 13937.674,
         "YAML": 514.043,
         "Other": 237.164,
-        "Vue.js": 79.188,
+        "JavaScript": 71.719,
         "Markdown": 57.502,
-        "JavaScript": 5.48,
+        "Vue.js": 12.949,
         "CSS": 1.08,
         "HTML": 0.886,
         "JSON": 0.607,
@@ -89,14 +89,26 @@
     },
     "2026-04-14": {
       "date": "2026-04-14",
-      "total_seconds": 6112.221,
+      "total_seconds": 15562.863,
       "languages": {
-        "Python": 6112.221
+        "Python": 15097.986,
+        "JSON": 211.671,
+        "Vue.js": 168.772,
+        "Markdown": 81.77,
+        "JavaScript": 2.664,
+        "CSV": 0.0
       },
       "editors": {
-        "PyCharm": 6112.221
+        "PyCharm": 15391.427,
+        "VS Code": 171.436
       }
+    },
+    "2026-04-15": {
+      "date": "2026-04-15",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-04-14T14:21:39.844259+08:00"
+  "updated_at": "2026-04-15T14:23:22.114723+08:00"
 }
