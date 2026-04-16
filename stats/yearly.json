@@ -76,7 +76,7 @@
         "Other": 237.164,
         "JavaScript": 71.719,
         "Markdown": 57.502,
-        "Vue.js": 12.949,
+        "Vue": 12.949,
         "CSS": 1.08,
         "HTML": 0.886,
         "JSON": 0.607,
@@ -93,7 +93,7 @@
       "languages": {
         "Python": 15097.986,
         "JSON": 211.671,
-        "Vue.js": 168.772,
+        "Vue": 168.772,
         "Markdown": 81.77,
         "JavaScript": 2.664,
         "CSV": 0.0
@@ -105,10 +105,51 @@
     },
     "2026-04-15": {
       "date": "2026-04-15",
-      "total_seconds": 0.0,
-      "languages": {},
-      "editors": {}
+      "total_seconds": 8733.079,
+      "languages": {
+        "Python": 5257.591,
+        "YAML": 1475.526,
+        "Text": 691.002,
+        "Other": 639.864,
+        "Bash": 317.874,
+        "SQL": 180.455,
+        "JavaScript": 78.712,
+        "Vue": 57.173,
+        "Markdown": 18.167,
+        "textmate": 16.715
+      },
+      "editors": {
+        "PyCharm": 8008.875,
+        "DBeaver": 588.319,
+        "VS Code": 135.885
+      }
+    },
+    "2026-04-16": {
+      "date": "2026-04-16",
+      "total_seconds": 12096.399,
+      "languages": {
+        "Text": 4408.404,
+        "YAML": 1653.17,
+        "Other": 1486.972076,
+        "Python": 1359.22,
+        "TOML": 1046.597,
+        "SQL": 865.407924,
+        "Docker": 394.708,
+        "JSON": 255.564,
+        "Git Config": 202.0,
+        "Markdown": 146.435,
+        "Bash": 143.14,
+        "textmate": 93.356,
+        "DockerIgnore file": 27.667,
+        "JSON-lines": 13.758
+      },
+      "editors": {
+        "PyCharm": 10487.601,
+        "DBeaver": 958.972076,
+        "Unknown Editor": 528.0,
+        "Sublime Text": 121.825924
+      }
     }
   },
-  "updated_at": "2026-04-15T14:23:22.114723+08:00"
+  "updated_at": "2026-04-16T14:24:54.212449+08:00"
 }
