@@ -15,6 +15,7 @@
   <a href="https://www.modelscope.cn/profile/RudyAI"><img src="https://img.shields.io/badge/ModelScope-魔搭-624AFF" /></a>&emsp;
   <a href="https://blog.grover.top/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
   <a href="./assets/images/wechat.jpg"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+  <a href="mailto:gechao.work@outlook.com"><img src="https://img.shields.io/badge/Outlook-邮箱-0078D4" /></a>&emsp;
   <a href="https://space.bilibili.com/392087867/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=RudyGo8&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
