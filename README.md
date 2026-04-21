@@ -58,7 +58,7 @@
 
 <!-- feed start -->
 - Apr 18 - [项目部署模型微调：SFT + LoRA 实战记录（产品迭代）](https://blog.grover.top/2026/04/18/%e4%b8%ba%e9%a1%b9%e7%9b%ae%e9%83%a8%e7%bd%b2%e6%a8%a1%e5%9e%8b%e5%be%ae%e8%b0%83sftlora%e8%ae%b0%e5%bd%95/)
-- Apr 13 - [架构工程化与项目的大模型评测记录](https://blog.grover.top/2026/04/13/%e6%9e%b6%e6%9e%84%e5%b7%a5%e7%a8%8b%e5%8c%96%e4%b8%8e%e6%9c%ac%e4%ba%ba%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e8%af%84%e6%b5%8b%e8%ae%b0%e5%bd%95/)
+- Apr 13 - [项目架构工程化与大模型评测记录](https://blog.grover.top/2026/04/13/%e6%9e%b6%e6%9e%84%e5%b7%a5%e7%a8%8b%e5%8c%96%e4%b8%8e%e6%9c%ac%e4%ba%ba%e5%bc%80%e6%ba%90%e9%a1%b9%e7%9b%ae%e8%af%84%e6%b5%8b%e8%ae%b0%e5%bd%95/)
 - Apr 01 - [agent | codex 最佳实践方案（自动化流程）](https://blog.grover.top/2026/04/01/agent-codex-%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%e6%96%b9%e6%a1%88/)
 - Mar 10 - [知源助手：基于 Agentic RAG 的可追溯知识问答系统](https://blog.grover.top/2026/03/10/%e7%9f%a5%e6%ba%90%e5%8a%a9%e6%89%8b%ef%bc%9a%e5%9f%ba%e4%ba%8e-agentic-rag-%e7%9a%84%e5%8f%af%e8%bf%bd%e6%ba%af%e7%9f%a5%e8%af%86%e9%97%ae%e7%ad%94%e7%b3%bb%e7%bb%9f/)
 - Mar 01 - [OpenClaw – Docker安全权限处理方案](https://blog.grover.top/2026/03/01/openclaw-docker%e5%ae%89%e5%85%a8%e6%9d%83%e9%99%90%e5%a4%84%e7%90%86%e6%96%b9%e6%a1%88/)
