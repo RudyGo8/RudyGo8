@@ -212,20 +212,39 @@
     },
     "2026-04-20": {
       "date": "2026-04-20",
-      "total_seconds": 4206.388,
+      "total_seconds": 24194.037,
       "languages": {
-        "Other": 2176.724,
-        "Python": 1713.379,
-        "YAML": 198.179,
-        "SQL": 85.211,
-        "Bash": 27.056,
-        "JSON": 5.839
+        "Python": 8062.961,
+        "Other": 7202.034,
+        "YAML": 5656.699,
+        "Markdown": 874.298,
+        "GitIgnore file": 631.221,
+        "Bash": 529.313,
+        "Text": 499.405,
+        "TOML": 411.792,
+        "SQL": 246.502,
+        "textmate": 70.724,
+        "JSON": 5.839,
+        "Requirements.txt": 3.249
       },
       "editors": {
-        "DBeaver": 2241.354,
-        "PyCharm": 1965.034
+        "PyCharm": 19809.157,
+        "DBeaver": 3295.88,
+        "VS Code": 1089.0
+      }
+    },
+    "2026-04-21": {
+      "date": "2026-04-21",
+      "total_seconds": 219.352,
+      "languages": {
+        "Python": 202.352,
+        "Other": 17.0,
+        "YAML": 0.0
+      },
+      "editors": {
+        "PyCharm": 219.352
       }
     }
   },
-  "updated_at": "2026-04-20T11:53:04.844468+08:00"
+  "updated_at": "2026-04-21T11:46:57.767096+08:00"
 }
