@@ -235,16 +235,23 @@
     },
     "2026-04-21": {
       "date": "2026-04-21",
-      "total_seconds": 219.352,
+      "total_seconds": 1115.218,
       "languages": {
-        "Python": 202.352,
+        "Python": 1091.854,
         "Other": 17.0,
+        "Markdown": 6.364,
         "YAML": 0.0
       },
       "editors": {
-        "PyCharm": 219.352
+        "PyCharm": 1115.218
       }
+    },
+    "2026-04-22": {
+      "date": "2026-04-22",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-04-21T11:46:57.767096+08:00"
+  "updated_at": "2026-04-22T11:43:40.500003+08:00"
 }
