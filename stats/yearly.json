@@ -235,23 +235,36 @@
     },
     "2026-04-21": {
       "date": "2026-04-21",
-      "total_seconds": 1115.218,
+      "total_seconds": 1177.27,
       "languages": {
-        "Python": 1091.854,
+        "Python": 1153.906,
         "Other": 17.0,
         "Markdown": 6.364,
         "YAML": 0.0
       },
       "editors": {
-        "PyCharm": 1115.218
+        "PyCharm": 1177.27
       }
     },
     "2026-04-22": {
       "date": "2026-04-22",
+      "total_seconds": 6951.504,
+      "languages": {
+        "Python": 5828.87,
+        "YAML": 1092.525,
+        "textmate": 15.218,
+        "Markdown": 14.891
+      },
+      "editors": {
+        "PyCharm": 6951.504
+      }
+    },
+    "2026-04-23": {
+      "date": "2026-04-23",
       "total_seconds": 0.0,
       "languages": {},
       "editors": {}
     }
   },
-  "updated_at": "2026-04-22T11:43:40.500003+08:00"
+  "updated_at": "2026-04-23T11:48:41.221746+08:00"
 }
