@@ -415,17 +415,53 @@
     },
     "2026-04-30": {
       "date": "2026-04-30",
-      "total_seconds": 4335.852,
+      "total_seconds": 26882.823,
       "languages": {
-        "Python": 3533.044,
-        "Other": 566.817,
+        "Python": 18197.949,
+        "Other": 3837.025557,
+        "HTML": 2387.849,
+        "YAML": 1000.187443,
+        "Vue": 401.279,
+        "JSON": 320.584,
+        "Text": 255.723,
+        "TOML": 238.681,
         "SQL": 220.879,
-        "YAML": 15.112
+        "Markdown": 14.184,
+        "Docker": 5.0,
+        "GitIgnore file": 2.237,
+        "Requirements.txt": 0.625,
+        "SCSS": 0.568,
+        "textmate": 0.052
       },
       "editors": {
-        "PyCharm": 4335.852
+        "PyCharm": 25783.598,
+        "DBeaver": 509.378,
+        "VS Code": 401.847,
+        "Sublime Text": 188.0
+      }
+    },
+    "2026-05-01": {
+      "date": "2026-05-01",
+      "total_seconds": 7722.079,
+      "languages": {
+        "Python": 3110.013,
+        "GitIgnore file": 1343.82,
+        "Other": 1121.502,
+        "Markdown": 792.31,
+        "Vue": 542.704,
+        "JSON": 376.285,
+        "TypeScript": 345.0,
+        "YAML": 57.217,
+        "Text": 29.262,
+        "TOML": 3.027,
+        "Requirements.txt": 0.939
+      },
+      "editors": {
+        "PyCharm": 5865.923,
+        "VS Code": 1013.704,
+        "DBeaver": 842.452
       }
     }
   },
-  "updated_at": "2026-04-30T12:05:50.657971+08:00"
+  "updated_at": "2026-05-01T12:19:43.663597+08:00"
 }
