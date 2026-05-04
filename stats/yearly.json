@@ -480,18 +480,41 @@
     },
     "2026-05-03": {
       "date": "2026-05-03",
-      "total_seconds": 5092.738658,
+      "total_seconds": 33173.142658,
       "languages": {
-        "Python": 3137.357658,
-        "YAML": 1763.932,
-        "Other": 191.449,
-        "Text": 0.0
+        "Python": 23009.0037,
+        "Other": 5770.820815,
+        "YAML": 2831.967,
+        "TOML": 845.956143,
+        "Markdown": 649.561,
+        "Text": 50.0,
+        "SQL": 15.834
       },
       "editors": {
-        "PyCharm": 2766.754,
-        "Sublime Text": 2325.984658
+        "PyCharm": 26924.930042,
+        "Sublime Text": 4811.006616,
+        "Unknown Editor": 700.564,
+        "DBeaver": 470.642,
+        "VS Code": 266.0
+      }
+    },
+    "2026-05-04": {
+      "date": "2026-05-04",
+      "total_seconds": 3740.0,
+      "languages": {
+        "Python": 1586.854,
+        "YAML": 1097.0,
+        "Other": 1020.146,
+        "JSON": 35.0,
+        "Nginx configuration file": 1.0
+      },
+      "editors": {
+        "Unknown Editor": 2860.07,
+        "VS Code": 790.0,
+        "PyCharm": 64.392,
+        "DBeaver": 25.538
       }
     }
   },
-  "updated_at": "2026-05-03T12:12:43.768299+08:00"
+  "updated_at": "2026-05-04T12:11:21.649304+08:00"
 }
