@@ -555,14 +555,33 @@
     },
     "2026-05-06": {
       "date": "2026-05-06",
-      "total_seconds": 195.925,
+      "total_seconds": 18035.065,
       "languages": {
-        "Python": 195.925
+        "Python": 14566.123697,
+        "YAML": 1193.85,
+        "textmate": 1181.908,
+        "Bash": 555.904,
+        "Text": 329.909303,
+        "Other": 172.235,
+        "Docker": 18.955,
+        "Requirements.txt": 6.166,
+        "Markdown": 5.87,
+        "DockerIgnore file": 3.083,
+        "GitIgnore file": 1.061
       },
       "editors": {
-        "PyCharm": 195.925
+        "PyCharm": 15497.341,
+        "Unknown Editor": 2156.675697,
+        "Sublime Text": 328.699303,
+        "DBeaver": 52.349
       }
+    },
+    "2026-05-07": {
+      "date": "2026-05-07",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-05-06T12:07:30.442229+08:00"
+  "updated_at": "2026-05-07T12:07:03.258683+08:00"
 }
