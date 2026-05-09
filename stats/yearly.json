@@ -532,9 +532,9 @@
       "date": "2026-05-05",
       "total_seconds": 21384.935201,
       "languages": {
-        "Python": 10942.3,
+        "Python": 10600.739,
         "HTML": 2699.811,
-        "Vue": 1688.546,
+        "Vue": 2030.107,
         "Markdown": 1664.499,
         "TypeScript": 1491.154,
         "Text": 790.636201,
@@ -547,17 +547,17 @@
         "GitIgnore file": 3.54
       },
       "editors": {
-        "PyCharm": 11024.521,
+        "PyCharm": 10682.96,
         "Unknown Editor": 9483.983,
         "Sublime Text": 702.492201,
-        "VS Code": 173.939
+        "VS Code": 515.5
       }
     },
     "2026-05-06": {
       "date": "2026-05-06",
-      "total_seconds": 18035.065,
+      "total_seconds": 18118.094,
       "languages": {
-        "Python": 14566.123697,
+        "Python": 14649.152697,
         "YAML": 1193.85,
         "textmate": 1181.908,
         "Bash": 555.904,
@@ -570,7 +570,7 @@
         "GitIgnore file": 1.061
       },
       "editors": {
-        "PyCharm": 15497.341,
+        "PyCharm": 15580.37,
         "Unknown Editor": 2156.675697,
         "Sublime Text": 328.699303,
         "DBeaver": 52.349
@@ -584,10 +584,34 @@
     },
     "2026-05-08": {
       "date": "2026-05-08",
-      "total_seconds": 0.0,
-      "languages": {},
-      "editors": {}
+      "total_seconds": 7606.249352,
+      "languages": {
+        "Other": 3816.835,
+        "Python": 3309.035,
+        "Text": 458.506352,
+        "YAML": 21.873
+      },
+      "editors": {
+        "Edge": 3536.456799,
+        "PyCharm": 2757.228,
+        "PowerPoint": 854.096201,
+        "Sublime Text": 458.468352
+      }
+    },
+    "2026-05-09": {
+      "date": "2026-05-09",
+      "total_seconds": 5796.378,
+      "languages": {
+        "Other": 4627.652,
+        "Python": 1168.549,
+        "Text": 0.149,
+        "YAML": 0.028
+      },
+      "editors": {
+        "Edge": 4468.944,
+        "PyCharm": 1327.434
+      }
     }
   },
-  "updated_at": "2026-05-08T11:55:06.088621+08:00"
+  "updated_at": "2026-05-09T11:57:55.045120+08:00"
 }
