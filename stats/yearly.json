@@ -603,7 +603,8 @@
       "total_seconds": 36301.299,
       "languages": {
         "Other": 22722.708,
-        "Python": 13547.968,
+        "Python": 13113.865,
+        "JavaScript": 434.103,
         "YAML": 25.908,
         "textmate": 4.566,
         "Text": 0.149
@@ -617,8 +618,8 @@
       "date": "2026-05-10",
       "total_seconds": 33614.121,
       "languages": {
-        "Other": 22847.275,
-        "Python": 9673.5,
+        "Other": 22820.275,
+        "Python": 9700.5,
         "YAML": 384.385,
         "Markdown": 203.399,
         "GitIgnore file": 127.431,
@@ -644,31 +645,46 @@
       "date": "2026-05-11",
       "total_seconds": 38520.346,
       "languages": {
-        "Other": 20483.447,
-        "Python": 17599.033,
+        "Other": 19894.217,
+        "Python": 18188.263,
         "YAML": 420.878,
         "Text": 16.988
       },
       "editors": {
-        "Edge": 19570.489,
-        "PyCharm": 18949.857
+        "PyCharm": 19473.087,
+        "Edge": 19047.259
       }
     },
     "2026-05-12": {
       "date": "2026-05-12",
-      "total_seconds": 7276.29,
+      "total_seconds": 35528.857,
       "languages": {
-        "Other": 5378.751,
-        "Python": 1030.729,
-        "YAML": 606.755,
-        "HTML": 260.055
+        "Other": 28817.034038,
+        "Python": 5672.578,
+        "YAML": 728.637,
+        "HTML": 260.055,
+        ".env file": 26.133,
+        "Text": 24.419962
       },
       "editors": {
-        "Edge": 5471.031,
-        "PyCharm": 1764.592,
-        "DBeaver": 40.667
+        "Edge": 29014.768038,
+        "PyCharm": 6361.555,
+        "DBeaver": 128.114,
+        "Sublime Text": 24.419962
+      }
+    },
+    "2026-05-13": {
+      "date": "2026-05-13",
+      "total_seconds": 9759.614,
+      "languages": {
+        "Other": 9206.638,
+        "Python": 552.976
+      },
+      "editors": {
+        "Edge": 9206.638,
+        "PyCharm": 552.976
       }
     }
   },
-  "updated_at": "2026-05-12T12:07:26.149431+08:00"
+  "updated_at": "2026-05-13T12:14:23.969282+08:00"
 }
