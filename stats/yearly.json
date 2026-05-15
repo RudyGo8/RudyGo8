@@ -698,25 +698,52 @@
     },
     "2026-05-14": {
       "date": "2026-05-14",
-      "total_seconds": 14671.773,
+      "total_seconds": 39213.459,
       "languages": {
-        "Other": 7871.853,
-        "Python": 6457.796,
+        "Other": 29085.672,
+        "Python": 9489.164,
         "TOML": 176.723,
+        "JavaScript": 108.235,
+        "Bash": 103.97,
         "Text": 102.357,
-        "Vue": 48.916,
+        "Vue": 87.202,
+        "YAML": 33.027,
+        "CSS": 13.0,
         "GitIgnore file": 8.85,
         "JSON": 3.106,
         "Markdown": 2.125,
-        ".env file": 0.028,
-        "Bash": 0.019
+        ".env file": 0.028
       },
       "editors": {
-        "Edge": 7899.864,
-        "PyCharm": 6758.723,
-        "VS Code": 13.186
+        "Edge": 28963.938,
+        "PyCharm": 8588.965,
+        "Unknown Editor": 1541.297,
+        "DBeaver": 98.615,
+        "VS Code": 20.644
+      }
+    },
+    "2026-05-15": {
+      "date": "2026-05-15",
+      "total_seconds": 16982.352,
+      "languages": {
+        "Other": 7978.065,
+        "Python": 7254.924,
+        "Markdown": 1121.951,
+        "TOML": 453.53,
+        "textmate": 43.67,
+        "CSS": 40.19,
+        "Text": 32.23,
+        "GitIgnore file": 27.568,
+        "YAML": 18.591,
+        ".env file": 11.624,
+        "Requirements.txt": 0.009
+      },
+      "editors": {
+        "Edge": 8984.737,
+        "PyCharm": 6064.806,
+        "Unknown Editor": 1932.809
       }
     }
   },
-  "updated_at": "2026-05-14T12:13:46.473524+08:00"
+  "updated_at": "2026-05-15T12:19:44.386290+08:00"
 }
