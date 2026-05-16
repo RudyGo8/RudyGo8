@@ -724,10 +724,10 @@
     },
     "2026-05-15": {
       "date": "2026-05-15",
-      "total_seconds": 16982.352,
+      "total_seconds": 50343.649,
       "languages": {
-        "Other": 7978.065,
-        "Python": 7254.924,
+        "Other": 39734.693,
+        "Python": 8859.593,
         "Markdown": 1121.951,
         "TOML": 453.53,
         "textmate": 43.67,
@@ -739,11 +739,22 @@
         "Requirements.txt": 0.009
       },
       "editors": {
-        "Edge": 8984.737,
+        "Edge": 42346.034,
         "PyCharm": 6064.806,
         "Unknown Editor": 1932.809
       }
+    },
+    "2026-05-16": {
+      "date": "2026-05-16",
+      "total_seconds": 12327.163,
+      "languages": {
+        "Other": 11402.647,
+        "Python": 924.516
+      },
+      "editors": {
+        "Edge": 12327.163
+      }
     }
   },
-  "updated_at": "2026-05-15T12:19:44.386290+08:00"
+  "updated_at": "2026-05-16T12:04:00.852425+08:00"
 }
