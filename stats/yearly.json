@@ -852,16 +852,27 @@
     },
     "2026-05-22": {
       "date": "2026-05-22",
-      "total_seconds": 5082.6,
+      "total_seconds": 11334.511,
       "languages": {
-        "Other": 5061.92,
-        "Markdown": 20.68
+        "Other": 11281.275,
+        "Markdown": 53.236
       },
       "editors": {
-        "Edge": 5063.118,
-        "PyCharm": 19.482
+        "Edge": 11294.871,
+        "PyCharm": 39.64
+      }
+    },
+    "2026-05-23": {
+      "date": "2026-05-23",
+      "total_seconds": 6139.046,
+      "languages": {
+        "Other": 6135.922,
+        "Markdown": 3.124
+      },
+      "editors": {
+        "Edge": 6139.046
       }
     }
   },
-  "updated_at": "2026-05-22T12:36:54.256361+08:00"
+  "updated_at": "2026-05-23T12:09:14.238964+08:00"
 }
