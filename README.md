@@ -64,7 +64,11 @@
 - Mar 10 - [知源助手：基于 Agentic RAG 的可追溯知识问答系统](https://blog.grover.top/2026/03/10/%e7%9f%a5%e6%ba%90%e5%8a%a9%e6%89%8b%ef%bc%9a%e5%9f%ba%e4%ba%8e-agentic-rag-%e7%9a%84%e5%8f%af%e8%bf%bd%e6%ba%af%e7%9f%a5%e8%af%86%e9%97%ae%e7%ad%94%e7%b3%bb%e7%bb%9f/)
 <!-- feed end -->
 
-</td></tr>
+</td>
+<td>
+      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/repositories.pinned.svg" alt="repositories.pinned" />
+    </td>
+</tr>
 
 </table>
 
@@ -150,9 +154,6 @@
 
 <table>
   <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/repositories.pinned.svg" alt="repositories.pinned" />
-    </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/calendar.full.svg" alt="calendar.full" />
     </td>
