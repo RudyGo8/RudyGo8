@@ -153,10 +153,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/calendar.full.svg" alt="calendar.full" />
+      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/repositories.pinned.svg" alt="repositories.pinned" />
     </td>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/repositories.pinned.svg" alt="repositories.pinned" />
+      <img src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/github-metrics/calendar.full.svg" alt="calendar.full" />
     </td>
   </tr>
 </table>
