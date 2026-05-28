@@ -926,18 +926,34 @@
     },
     "2026-05-27": {
       "date": "2026-05-27",
-      "total_seconds": 11636.634,
+      "total_seconds": 37869.046,
       "languages": {
-        "Other": 8725.185,
-        "Python": 2868.221,
-        "Markdown": 34.228,
-        "JavaScript": 9.0
+        "Other": 32283.999,
+        "Python": 3891.517,
+        "Markdown": 1637.708,
+        "XML": 45.5,
+        "JavaScript": 9.0,
+        "IDEA_MODULE": 1.322
       },
       "editors": {
-        "Edge": 8700.185,
-        "PyCharm": 2936.449
+        "Edge": 32310.235894,
+        "PyCharm": 5548.995,
+        "PowerPoint": 9.815106
+      }
+    },
+    "2026-05-28": {
+      "date": "2026-05-28",
+      "total_seconds": 2308.261,
+      "languages": {
+        "Markdown": 1245.223,
+        "Other": 1023.912,
+        "Python": 39.126
+      },
+      "editors": {
+        "PyCharm": 1284.349,
+        "Edge": 1023.912
       }
     }
   },
-  "updated_at": "2026-05-27T12:50:25.322146+08:00"
+  "updated_at": "2026-05-28T12:42:14.900374+08:00"
 }
