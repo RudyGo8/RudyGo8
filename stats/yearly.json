@@ -1008,17 +1008,37 @@
     },
     "2026-06-01": {
       "date": "2026-06-01",
-      "total_seconds": 10053.898,
+      "total_seconds": 22115.330197,
       "languages": {
-        "Other": 7938.854,
+        "Other": 20000.286197,
         "Markdown": 1403.49,
         "Python": 711.554
       },
       "editors": {
-        "Edge": 7944.039,
-        "PyCharm": 2109.859
+        "Edge": 18440.532729,
+        "PyCharm": 2109.859,
+        "Word": 1564.938468
+      }
+    },
+    "2026-06-02": {
+      "date": "2026-06-02",
+      "total_seconds": 14057.853,
+      "languages": {
+        "Other": 11920.557,
+        "Python": 1271.641,
+        "Markdown": 298.317,
+        "Git Config": 227.0,
+        "TOML": 225.378,
+        "INI": 107.602,
+        "Text": 4.178,
+        "GitIgnore file": 3.18
+      },
+      "editors": {
+        "Edge": 9570.122,
+        "Codex CLI": 3543.188,
+        "PyCharm": 944.543
       }
     }
   },
-  "updated_at": "2026-06-01T13:17:34.331730+08:00"
+  "updated_at": "2026-06-02T13:01:27.843678+08:00"
 }
