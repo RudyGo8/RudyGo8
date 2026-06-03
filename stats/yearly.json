@@ -1022,23 +1022,34 @@
     },
     "2026-06-02": {
       "date": "2026-06-02",
-      "total_seconds": 14057.853,
+      "total_seconds": 35577.994,
       "languages": {
-        "Other": 11920.557,
-        "Python": 1271.641,
+        "Other": 32668.707,
+        "Python": 2090.509,
         "Markdown": 298.317,
         "Git Config": 227.0,
-        "TOML": 225.378,
+        "TOML": 178.501,
         "INI": 107.602,
         "Text": 4.178,
         "GitIgnore file": 3.18
       },
       "editors": {
-        "Edge": 9570.122,
-        "Codex CLI": 3543.188,
-        "PyCharm": 944.543
+        "Edge": 30142.347,
+        "Codex CLI": 3861.927,
+        "PyCharm": 1573.72
+      }
+    },
+    "2026-06-03": {
+      "date": "2026-06-03",
+      "total_seconds": 8048.847,
+      "languages": {
+        "Other": 8048.847
+      },
+      "editors": {
+        "Edge": 8041.744094,
+        "Word": 7.102906
       }
     }
   },
-  "updated_at": "2026-06-02T13:01:27.843678+08:00"
+  "updated_at": "2026-06-03T13:18:50.054429+08:00"
 }
