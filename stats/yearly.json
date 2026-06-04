@@ -1041,15 +1041,38 @@
     },
     "2026-06-03": {
       "date": "2026-06-03",
-      "total_seconds": 8048.847,
+      "total_seconds": 38365.387,
       "languages": {
-        "Other": 8048.847
+        "Other": 30149.367,
+        "Python": 5832.355,
+        "Markdown": 1631.304,
+        "Text": 443.194,
+        "TOML": 148.153,
+        "Requirements.txt": 106.969,
+        "INI": 43.761,
+        "RPMSpec": 4.894,
+        "PythonStub": 3.152,
+        "GitIgnore file": 2.238
       },
       "editors": {
-        "Edge": 8041.744094,
+        "Edge": 30129.615094,
+        "PyCharm": 4592.44,
+        "Codex CLI": 3611.375,
+        "Claude Code": 24.854,
         "Word": 7.102906
+      }
+    },
+    "2026-06-04": {
+      "date": "2026-06-04",
+      "total_seconds": 3138.565754,
+      "languages": {
+        "Other": 3138.565754
+      },
+      "editors": {
+        "PowerPoint": 2048.466333,
+        "Edge": 1090.099421
       }
     }
   },
-  "updated_at": "2026-06-03T13:18:50.054429+08:00"
+  "updated_at": "2026-06-04T13:09:26.656865+08:00"
 }
