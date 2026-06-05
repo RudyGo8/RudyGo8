@@ -1064,15 +1064,43 @@
     },
     "2026-06-04": {
       "date": "2026-06-04",
-      "total_seconds": 3138.565754,
+      "total_seconds": 17752.608754,
       "languages": {
-        "Other": 3138.565754
+        "Other": 16961.285754,
+        "Markdown": 767.569,
+        "Python": 23.754
       },
       "editors": {
+        "Edge": 14740.381932,
         "PowerPoint": 2048.466333,
-        "Edge": 1090.099421
+        "PyCharm": 786.39,
+        "Word": 177.370489
+      }
+    },
+    "2026-06-05": {
+      "date": "2026-06-05",
+      "total_seconds": 9114.114,
+      "languages": {
+        "Other": 5534.976,
+        "Python": 1431.052,
+        "Markdown": 1347.941,
+        "TOML": 370.199,
+        "Docker": 273.881,
+        ".env file": 56.898,
+        "YAML": 46.0,
+        "Bash": 25.686,
+        "Text": 19.128,
+        "DockerIgnore file": 4.396,
+        "textmate": 2.724,
+        "Requirements.txt": 1.233
+      },
+      "editors": {
+        "Edge": 5531.51937,
+        "PyCharm": 1704.088,
+        "Codex CLI": 1321.407,
+        "Word": 557.09963
       }
     }
   },
-  "updated_at": "2026-06-04T13:09:26.656865+08:00"
+  "updated_at": "2026-06-05T12:49:01.678856+08:00"
 }
