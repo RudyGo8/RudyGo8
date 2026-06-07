@@ -1103,14 +1103,53 @@
     },
     "2026-06-06": {
       "date": "2026-06-06",
-      "total_seconds": 2822.008972,
+      "total_seconds": 16828.696089,
       "languages": {
-        "Other": 2822.008972
+        "Other": 11487.022089,
+        "Python": 4802.688,
+        "YAML": 451.181,
+        "Markdown": 52.713,
+        "Bash": 15.921,
+        ".env file": 13.761,
+        "Text": 4.37,
+        "GitIgnore file": 0.856,
+        "textmate": 0.154,
+        "TOML": 0.022,
+        "DockerIgnore file": 0.007,
+        "Requirements.txt": 0.001
       },
       "editors": {
-        "Word": 2822.008972
+        "Edge": 8242.602634,
+        "PyCharm": 5165.237,
+        "Word": 3244.419455,
+        "Codex CLI": 176.437
+      }
+    },
+    "2026-06-07": {
+      "date": "2026-06-07",
+      "total_seconds": 12778.839,
+      "languages": {
+        "Other": 7324.876,
+        "Python": 2239.243,
+        "YAML": 1553.337,
+        "Markdown": 721.279,
+        "Bash": 409.212,
+        "textmate": 336.687,
+        "Docker": 148.268,
+        ".env file": 29.526,
+        "Text": 15.047,
+        "TOML": 1.364,
+        "SQL": 0.0,
+        "JavaScript": 0.0,
+        "Git Config": 0.0
+      },
+      "editors": {
+        "Edge": 7319.171,
+        "PyCharm": 3848.324,
+        "Codex CLI": 1378.167,
+        "DBeaver": 233.177
       }
     }
   },
-  "updated_at": "2026-06-06T12:29:47.444084+08:00"
+  "updated_at": "2026-06-07T12:57:02.837454+08:00"
 }
