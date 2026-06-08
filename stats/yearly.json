@@ -1127,29 +1127,44 @@
     },
     "2026-06-07": {
       "date": "2026-06-07",
-      "total_seconds": 12778.839,
+      "total_seconds": 33582.184678,
       "languages": {
-        "Other": 7324.876,
-        "Python": 2239.243,
+        "Other": 26442.666678,
+        "Python": 3329.361,
         "YAML": 1553.337,
-        "Markdown": 721.279,
+        "Markdown": 1311.786,
         "Bash": 409.212,
         "textmate": 336.687,
         "Docker": 148.268,
         ".env file": 29.526,
-        "Text": 15.047,
-        "TOML": 1.364,
+        "Text": 19.499,
+        "TOML": 1.842,
         "SQL": 0.0,
         "JavaScript": 0.0,
         "Git Config": 0.0
       },
       "editors": {
-        "Edge": 7319.171,
-        "PyCharm": 3848.324,
+        "Edge": 25063.770507,
+        "PyCharm": 5532.815,
         "Codex CLI": 1378.167,
+        "Word": 1374.255171,
         "DBeaver": 233.177
+      }
+    },
+    "2026-06-08": {
+      "date": "2026-06-08",
+      "total_seconds": 3530.04,
+      "languages": {
+        "Other": 2882.902,
+        "Markdown": 643.519,
+        "Python": 3.619
+      },
+      "editors": {
+        "Edge": 2563.597,
+        "PyCharm": 647.138,
+        "Codex CLI": 319.305
       }
     }
   },
-  "updated_at": "2026-06-07T12:57:02.837454+08:00"
+  "updated_at": "2026-06-08T13:02:42.441230+08:00"
 }
