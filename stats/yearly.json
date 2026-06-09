@@ -1153,18 +1153,37 @@
     },
     "2026-06-08": {
       "date": "2026-06-08",
-      "total_seconds": 3530.04,
+      "total_seconds": 13687.275,
       "languages": {
-        "Other": 2882.902,
-        "Markdown": 643.519,
+        "Other": 13017.157312,
+        "Markdown": 646.043,
+        "Text": 20.455688,
         "Python": 3.619
       },
       "editors": {
-        "Edge": 2563.597,
+        "Edge": 12700.376312,
         "PyCharm": 647.138,
-        "Codex CLI": 319.305
+        "Codex CLI": 319.305,
+        "Sublime Text": 20.455688
+      }
+    },
+    "2026-06-09": {
+      "date": "2026-06-09",
+      "total_seconds": 9972.24,
+      "languages": {
+        "Other": 9425.733,
+        "YAML": 444.898,
+        "Markdown": 90.421,
+        ".env file": 5.69,
+        "Python": 5.395,
+        "Bash": 0.103
+      },
+      "editors": {
+        "Edge": 9531.541,
+        "PyCharm": 231.398,
+        "Codex CLI": 209.301
       }
     }
   },
-  "updated_at": "2026-06-08T13:02:42.441230+08:00"
+  "updated_at": "2026-06-09T12:37:01.285082+08:00"
 }
