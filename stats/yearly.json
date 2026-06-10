@@ -1169,21 +1169,34 @@
     },
     "2026-06-09": {
       "date": "2026-06-09",
-      "total_seconds": 9972.24,
+      "total_seconds": 24145.946,
       "languages": {
-        "Other": 9425.733,
-        "YAML": 444.898,
-        "Markdown": 90.421,
+        "Other": 22885.717,
+        "Markdown": 804.143,
+        "YAML": 403.281,
+        "JSON": 41.617,
         ".env file": 5.69,
         "Python": 5.395,
         "Bash": 0.103
       },
       "editors": {
-        "Edge": 9531.541,
-        "PyCharm": 231.398,
+        "Edge": 22991.525,
+        "PyCharm": 945.12,
         "Codex CLI": 209.301
+      }
+    },
+    "2026-06-10": {
+      "date": "2026-06-10",
+      "total_seconds": 6661.194,
+      "languages": {
+        "Other": 6629.823,
+        "Markdown": 31.371
+      },
+      "editors": {
+        "Edge": 6629.823,
+        "PyCharm": 31.371
       }
     }
   },
-  "updated_at": "2026-06-09T12:37:01.285082+08:00"
+  "updated_at": "2026-06-10T12:50:17.483576+08:00"
 }
