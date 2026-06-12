@@ -1199,16 +1199,22 @@
     },
     "2026-06-11": {
       "date": "2026-06-11",
-      "total_seconds": 6044.874,
+      "total_seconds": 14312.699,
       "languages": {
-        "Other": 6039.521,
-        "Markdown": 5.353
+        "Other": 14258.541,
+        "Markdown": 54.158
       },
       "editors": {
-        "Edge": 6039.521,
-        "PyCharm": 5.353
+        "Edge": 14258.541,
+        "PyCharm": 54.158
       }
+    },
+    "2026-06-12": {
+      "date": "2026-06-12",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-06-11T12:59:59.398459+08:00"
+  "updated_at": "2026-06-12T13:05:05.281562+08:00"
 }
