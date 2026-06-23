@@ -1331,16 +1331,22 @@
     },
     "2026-06-22": {
       "date": "2026-06-22",
-      "total_seconds": 3850.734,
+      "total_seconds": 6106.38,
       "languages": {
-        "Other": 3564.825,
-        "Markdown": 285.909
+        "Other": 5817.949,
+        "Markdown": 288.431
       },
       "editors": {
-        "Edge": 3565.933,
+        "Edge": 5821.579,
         "PyCharm": 284.801
       }
+    },
+    "2026-06-23": {
+      "date": "2026-06-23",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-06-22T13:32:20.888718+08:00"
+  "updated_at": "2026-06-23T12:31:09.572314+08:00"
 }
