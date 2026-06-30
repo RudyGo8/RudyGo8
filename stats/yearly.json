@@ -1410,10 +1410,27 @@
     },
     "2026-06-29": {
       "date": "2026-06-29",
-      "total_seconds": 0.0,
-      "languages": {},
-      "editors": {}
+      "total_seconds": 9988.54,
+      "languages": {
+        "Other": 8252.199,
+        "Markdown": 1501.892,
+        "Python": 234.449
+      },
+      "editors": {
+        "Edge": 8252.199,
+        "PyCharm": 1736.341
+      }
+    },
+    "2026-06-30": {
+      "date": "2026-06-30",
+      "total_seconds": 4172.905,
+      "languages": {
+        "Other": 4172.905
+      },
+      "editors": {
+        "Edge": 4172.905
+      }
     }
   },
-  "updated_at": "2026-06-29T13:00:25.157810+08:00"
+  "updated_at": "2026-06-30T12:34:46.639332+08:00"
 }
