@@ -1601,22 +1601,39 @@
         "Edge": 27745.334,
         "VS Code": 10670.54,
         "Codex CLI": 307.524,
-        "Claude Code": 6.092
+        "Claude Code": 6.092,
+        "Notepad++": 0.0
       }
     },
     "2026-07-17": {
       "date": "2026-07-17",
-      "total_seconds": 9549.419,
+      "total_seconds": 31840.734,
       "languages": {
-        "Other": 8644.231,
-        "Python": 819.899,
-        "Bash": 85.289
+        "Other": 29552.300269,
+        "Python": 1458.291,
+        "JSON": 296.892,
+        "Bash": 214.543,
+        "YAML": 204.639,
+        "Git Config": 100.042,
+        "Text": 8.796731,
+        "TOML": 5.23
       },
       "editors": {
-        "Edge": 8644.231,
-        "VS Code": 905.188
+        "Edge": 29559.463269,
+        "VS Code": 2272.474,
+        "Notepad++": 8.796731
+      }
+    },
+    "2026-07-18": {
+      "date": "2026-07-18",
+      "total_seconds": 1666.863,
+      "languages": {
+        "Other": 1666.863
+      },
+      "editors": {
+        "Edge": 1666.863
       }
     }
   },
-  "updated_at": "2026-07-17T11:39:46.174940+08:00"
+  "updated_at": "2026-07-18T11:33:56.941039+08:00"
 }
