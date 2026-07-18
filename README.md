@@ -57,7 +57,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jul 10 - [AI工具学习](https://blog.grover.top/2026/07/10/ai%e5%b7%a5%e5%85%b7%e5%ad%a6%e4%b9%a0/)
+- Jul 10 - [AI工具类学习](https://blog.grover.top/2026/07/10/ai%e5%b7%a5%e5%85%b7%e5%ad%a6%e4%b9%a0/)
 - May 08 - [学习Hermes Agent (openclaw 对比）](https://blog.grover.top/2026/05/08/%e5%ad%a6%e4%b9%a0hermes-agent/)
 - Apr 24 - [AI日报定时推送自动化](https://blog.grover.top/2026/04/24/ai%e6%97%a5%e6%8a%a5%e5%ae%9a%e6%97%b6%e6%8e%a8%e9%80%81%e8%87%aa%e5%8a%a8%e5%8c%96/)
 - Apr 01 - [agent | codex 最佳实践方案（自动化流程）](https://blog.grover.top/2026/04/01/agent-codex-%e6%9c%80%e4%bd%b3%e5%ae%9e%e8%b7%b5%e6%96%b9%e6%a1%88/)
