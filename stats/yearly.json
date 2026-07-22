@@ -1648,27 +1648,42 @@
       "date": "2026-07-20",
       "total_seconds": 41834.265,
       "languages": {
-        "Other": 39942.241,
-        "Python": 1843.165,
+        "Other": 39795.644,
+        "Python": 1989.762,
         "JSON": 48.858,
         "Markdown": 0.001
       },
       "editors": {
-        "Edge": 40524.533,
-        "VS Code": 1309.732
+        "Edge": 40377.936,
+        "VS Code": 1456.329
       }
     },
     "2026-07-21": {
       "date": "2026-07-21",
-      "total_seconds": 9248.652,
+      "total_seconds": 34484.775,
       "languages": {
-        "Other": 9138.394,
-        "Python": 110.258
+        "Other": 33914.088,
+        "Python": 465.897,
+        "YAML": 104.79
       },
       "editors": {
-        "Edge": 9248.652
+        "Edge": 34375.235,
+        "VS Code": 109.54
+      }
+    },
+    "2026-07-22": {
+      "date": "2026-07-22",
+      "total_seconds": 9862.986,
+      "languages": {
+        "Other": 9394.812,
+        "Text": 437.441,
+        "JSON": 30.733
+      },
+      "editors": {
+        "Edge": 9298.788,
+        "VS Code": 564.198
       }
     }
   },
-  "updated_at": "2026-07-21T11:47:28.361824+08:00"
+  "updated_at": "2026-07-22T11:48:52.529965+08:00"
 }
