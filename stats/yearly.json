@@ -1683,21 +1683,54 @@
       },
       "editors": {
         "Edge": 31621.947,
-        "VS Code": 2485.276
+        "VS Code": 2485.276,
+        "IntelliJ IDEA": 0.0
       }
     },
     "2026-07-23": {
       "date": "2026-07-23",
-      "total_seconds": 11105.363,
+      "total_seconds": 40276.17,
       "languages": {
-        "Other": 10337.161,
-        "Python": 768.202
+        "Other": 35052.646,
+        "Python": 4133.622,
+        "CSS": 411.187,
+        "Vue": 320.577,
+        "Bash": 156.563,
+        "YAML": 122.661,
+        "JSON": 58.0,
+        "JavaScript": 20.914
       },
       "editors": {
-        "Edge": 10941.711,
-        "VS Code": 163.652
+        "Edge": 37718.52,
+        "VS Code": 1631.301,
+        "Codex CLI": 912.067,
+        "DBeaver": 14.282
+      }
+    },
+    "2026-07-24": {
+      "date": "2026-07-24",
+      "total_seconds": 13532.675,
+      "languages": {
+        "Other": 10019.184,
+        "Python": 2702.978,
+        "Bash": 600.837,
+        "GitIgnore file": 88.996,
+        "Java": 55.669,
+        "XML": 28.177,
+        "Docker": 16.567,
+        "JSON": 10.672,
+        "TypeScript": 5.912,
+        "Markdown": 3.683,
+        "YAML": 0.0
+      },
+      "editors": {
+        "Edge": 11406.751,
+        "VS Code": 1536.522,
+        "Codex CLI": 369.682,
+        "IntelliJ IDEA": 177.37,
+        "DBeaver": 42.35
       }
     }
   },
-  "updated_at": "2026-07-23T11:46:36.172497+08:00"
+  "updated_at": "2026-07-24T11:45:41.009936+08:00"
 }
