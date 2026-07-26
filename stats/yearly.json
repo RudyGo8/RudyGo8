@@ -1735,10 +1735,25 @@
     },
     "2026-07-25": {
       "date": "2026-07-25",
-      "total_seconds": 0.0,
-      "languages": {},
-      "editors": {}
+      "total_seconds": 27174.223,
+      "languages": {
+        "Other": 25982.248,
+        "JSON": 1191.975
+      },
+      "editors": {
+        "Edge": 27174.223
+      }
+    },
+    "2026-07-26": {
+      "date": "2026-07-26",
+      "total_seconds": 1569.902,
+      "languages": {
+        "Other": 1569.902
+      },
+      "editors": {
+        "Edge": 1569.902
+      }
     }
   },
-  "updated_at": "2026-07-25T11:40:06.391215+08:00"
+  "updated_at": "2026-07-26T11:56:58.249969+08:00"
 }
