@@ -57,7 +57,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jul 26 - [飞书cli + claude code 平替飞书妙搭](https://blog.grover.top/2026/07/26/%e9%a3%9e%e4%b9%a6cli-claude-code-%e5%b9%b3%e6%9b%bf%e9%a3%9e%e4%b9%a6%e5%a6%99%e6%90%ad/)
+- Jul 26 - [平替飞书妙搭方案有二](https://blog.grover.top/2026/07/26/%e9%a3%9e%e4%b9%a6cli-claude-code-%e5%b9%b3%e6%9b%bf%e9%a3%9e%e4%b9%a6%e5%a6%99%e6%90%ad/)
 - Jul 10 - [AI工具类学习](https://blog.grover.top/2026/07/10/ai%e5%b7%a5%e5%85%b7%e5%ad%a6%e4%b9%a0/)
 - May 08 - [学习Hermes Agent (openclaw 对比）](https://blog.grover.top/2026/05/08/%e5%ad%a6%e4%b9%a0hermes-agent/)
 - Apr 24 - [AI日报定时推送自动化](https://blog.grover.top/2026/04/24/ai%e6%97%a5%e6%8a%a5%e5%ae%9a%e6%97%b6%e6%8e%a8%e9%80%81%e8%87%aa%e5%8a%a8%e5%8c%96/)
