@@ -1757,24 +1757,41 @@
     },
     "2026-07-27": {
       "date": "2026-07-27",
-      "total_seconds": 8214.003,
+      "total_seconds": 31991.581,
       "languages": {
-        "Other": 5447.966,
+        "Other": 25788.084,
+        "YAML": 3437.816,
         "Docker": 2210.061,
         "JSON": 355.413,
         "Java": 199.418,
         "Markdown": 0.706,
-        "YAML": 0.356,
         "XML": 0.044,
         "Text": 0.039
       },
       "editors": {
-        "Edge": 7068.035,
+        "Edge": 29831.098,
+        "IntelliJ IDEA": 1215.115,
         "VS Code": 847.968,
-        "IntelliJ IDEA": 200.6,
         "Codex CLI": 97.4
+      }
+    },
+    "2026-07-28": {
+      "date": "2026-07-28",
+      "total_seconds": 9679.807,
+      "languages": {
+        "Other": 8979.249,
+        "YAML": 663.584,
+        "Java": 35.809,
+        "Markdown": 1.05,
+        "Text": 0.054,
+        "XML": 0.047,
+        "Docker": 0.014
+      },
+      "editors": {
+        "Edge": 9466.825,
+        "IntelliJ IDEA": 212.982
       }
     }
   },
-  "updated_at": "2026-07-27T12:04:02.010560+08:00"
+  "updated_at": "2026-07-28T11:38:29.490744+08:00"
 }
