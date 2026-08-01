@@ -1832,28 +1832,40 @@
     },
     "2026-07-31": {
       "date": "2026-07-31",
-      "total_seconds": 11282.672,
+      "total_seconds": 31660.355,
       "languages": {
-        "Other": 7556.507,
-        "XML": 1485.412,
-        "Java": 778.38,
-        "YAML": 555.582,
+        "Other": 21283.158,
+        "Java": 5351.483,
+        "XML": 1704.835,
+        "YAML": 1133.031,
+        "Markdown": 416.256,
         "Python": 382.625,
-        "SQL": 274.322,
+        "SQL": 345.832,
+        "PowerShell": 311.154,
+        "Vue": 285.457,
+        "JSON": 172.534,
+        "TypeScript": 87.949,
         "HTML": 87.505,
         "TOML": 63.454,
-        "Vue": 41.713,
         "Text": 28.802,
-        "JSON": 22.09,
-        "Git Config": 6.28,
-        "TypeScript": 0.0
+        "Git Config": 6.28
       },
       "editors": {
-        "Edge": 6776.957,
-        "VS Code": 4434.205,
-        "Codex CLI": 71.51
+        "Edge": 20653.843,
+        "VS Code": 10706.031,
+        "Codex CLI": 300.481
+      }
+    },
+    "2026-08-01": {
+      "date": "2026-08-01",
+      "total_seconds": 2989.879,
+      "languages": {
+        "Other": 2989.879
+      },
+      "editors": {
+        "Edge": 2989.879
       }
     }
   },
-  "updated_at": "2026-07-31T11:51:58.311661+08:00"
+  "updated_at": "2026-08-01T11:52:05.389220+08:00"
 }
