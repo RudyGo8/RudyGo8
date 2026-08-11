@@ -57,7 +57,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Jul 30 - [售后系统总结（AI编程方案）](https://blog.grover.top/2026/07/30/%e5%94%ae%e5%90%8e%e7%b3%bb%e7%bb%9f%e6%80%bb%e7%bb%93%ef%bc%88ai%e7%bc%96%e7%a8%8b%e6%96%b9%e6%a1%88%ef%bc%89/)
+- Jul 30 - [JAVA售后系统总结（AI编程方案）](https://blog.grover.top/2026/07/30/%e5%94%ae%e5%90%8e%e7%b3%bb%e7%bb%9f%e6%80%bb%e7%bb%93%ef%bc%88ai%e7%bc%96%e7%a8%8b%e6%96%b9%e6%a1%88%ef%bc%89/)
 - Jul 26 - [平替飞书妙搭方案有二](https://blog.grover.top/2026/07/26/%e9%a3%9e%e4%b9%a6cli-claude-code-%e5%b9%b3%e6%9b%bf%e9%a3%9e%e4%b9%a6%e5%a6%99%e6%90%ad/)
 - Jul 10 - [AI工具类学习](https://blog.grover.top/2026/07/10/ai%e5%b7%a5%e5%85%b7%e5%ad%a6%e4%b9%a0/)
 - May 08 - [学习Hermes Agent (openclaw 对比）](https://blog.grover.top/2026/05/08/%e5%ad%a6%e4%b9%a0hermes-agent/)
