@@ -1997,17 +1997,33 @@
     },
     "2026-08-11": {
       "date": "2026-08-11",
-      "total_seconds": 5311.013,
+      "total_seconds": 40234.98,
       "languages": {
-        "Other": 4701.475,
-        "Java": 454.251,
-        "Markdown": 155.287
+        "Other": 38257.221,
+        "Java": 1620.981,
+        "Markdown": 356.778
       },
       "editors": {
-        "Edge": 4701.475,
-        "VS Code": 609.538
+        "Edge": 39015.183,
+        "VS Code": 1103.959,
+        "Claude Code": 115.838
+      }
+    },
+    "2026-08-12": {
+      "date": "2026-08-12",
+      "total_seconds": 6187.09,
+      "languages": {
+        "Other": 4744.332,
+        "Java": 1138.313,
+        "Markdown": 293.065,
+        "SQL": 9.57,
+        "YAML": 1.81
+      },
+      "editors": {
+        "Edge": 4374.666,
+        "VS Code": 1812.424
       }
     }
   },
-  "updated_at": "2026-08-11T10:29:01.751340+08:00"
+  "updated_at": "2026-08-12T10:46:07.811598+08:00"
 }
