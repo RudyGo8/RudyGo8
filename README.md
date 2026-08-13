@@ -57,11 +57,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Aug 12 - [远程连接公司内网（Tailscale + SSH = 免费）](https://blog.grover.top/2026/08/12/%e8%bf%9c%e7%a8%8b%e8%bf%9e%e6%8e%a5%e5%85%ac%e5%8f%b8%e5%86%85%e7%bd%91%ef%bc%88tailscale-ssh-%e5%85%8d%e8%b4%b9%ef%bc%89/)
 - Jul 30 - [JAVA售后系统总结（AI编程方案）](https://blog.grover.top/2026/07/30/%e5%94%ae%e5%90%8e%e7%b3%bb%e7%bb%9f%e6%80%bb%e7%bb%93%ef%bc%88ai%e7%bc%96%e7%a8%8b%e6%96%b9%e6%a1%88%ef%bc%89/)
 - Jul 26 - [平替飞书妙搭方案有二](https://blog.grover.top/2026/07/26/%e9%a3%9e%e4%b9%a6cli-claude-code-%e5%b9%b3%e6%9b%bf%e9%a3%9e%e4%b9%a6%e5%a6%99%e6%90%ad/)
 - Jul 10 - [AI工具类学习](https://blog.grover.top/2026/07/10/ai%e5%b7%a5%e5%85%b7%e5%ad%a6%e4%b9%a0/)
 - May 08 - [学习Hermes Agent (openclaw 对比）](https://blog.grover.top/2026/05/08/%e5%ad%a6%e4%b9%a0hermes-agent/)
-- Apr 24 - [AI日报定时推送自动化](https://blog.grover.top/2026/04/24/ai%e6%97%a5%e6%8a%a5%e5%ae%9a%e6%97%b6%e6%8e%a8%e9%80%81%e8%87%aa%e5%8a%a8%e5%8c%96/)
 <!-- feed end -->
 
 </td>
