@@ -2031,21 +2031,53 @@
     },
     "2026-08-13": {
       "date": "2026-08-13",
-      "total_seconds": 11887.595,
+      "total_seconds": 51391.445,
       "languages": {
-        "Other": 10077.391,
+        "Other": 23742.423,
+        "Java": 18717.325,
+        "SQL": 1691.641,
+        "Markdown": 1619.504,
+        "Vue": 1153.846,
         "Python": 1061.242,
-        "Java": 612.082,
-        "YAML": 95.422,
-        "XML": 23.247,
+        "Text": 998.794,
+        "TypeScript": 905.999,
+        "JSON": 591.22,
+        "YAML": 305.196,
+        "Bash": 286.639,
+        "XML": 197.03,
+        "Java Properties": 106.425,
         "HTML": 13.528,
-        "Markdown": 4.683
+        "Git": 0.633
       },
       "editors": {
-        "Edge": 10281.26,
-        "VS Code": 1606.335
+        "VS Code": 28005.394,
+        "Edge": 23386.051
+      }
+    },
+    "2026-08-14": {
+      "date": "2026-08-14",
+      "total_seconds": 25634.26,
+      "languages": {
+        "Java": 11240.868,
+        "Other": 10517.829,
+        "Vue": 1676.279,
+        "SQL": 1278.092,
+        "Markdown": 344.523,
+        "TypeScript": 212.161,
+        "JSON": 109.686,
+        "XML": 100.058,
+        "YAML": 90.201,
+        "Git": 42.949,
+        "Java Properties": 15.195,
+        "Batchfile": 6.419
+      },
+      "editors": {
+        "VS Code": 14678.103,
+        "Edge": 10343.836,
+        "Codex CLI": 535.463,
+        "Codex Vscode": 76.858
       }
     }
   },
-  "updated_at": "2026-08-13T10:48:31.796423+08:00"
+  "updated_at": "2026-08-14T10:47:20.670986+08:00"
 }
