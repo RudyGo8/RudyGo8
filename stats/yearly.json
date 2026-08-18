@@ -2084,12 +2084,15 @@
     },
     "2026-08-15": {
       "date": "2026-08-15",
-      "total_seconds": 11652.251518,
+      "total_seconds": 11853.047518,
       "languages": {
-        "Other": 11652.251518
+        "Other": 10741.134518,
+        "Text": 740.488,
+        "Python": 371.425
       },
       "editors": {
-        "Edge": 11652.251518,
+        "Edge": 10741.134518,
+        "Claude Code": 1111.913,
         "Excel": 0.0
       }
     },
@@ -2097,29 +2100,61 @@
       "date": "2026-08-16",
       "total_seconds": 19724.292,
       "languages": {
-        "Other": 18749.118,
+        "Other": 18546.986,
         "Text": 485.068,
         "JSON": 393.301,
+        "Python": 202.132,
         "Batchfile": 96.665,
         "PowerShell": 0.14
       },
       "editors": {
-        "Edge": 16606.04,
-        "VS Code": 2710.208,
-        "Claude Code": 408.044
+        "Edge": 16490.043,
+        "VS Code": 2624.073,
+        "Claude Code": 610.176
       }
     },
     "2026-08-17": {
       "date": "2026-08-17",
-      "total_seconds": 3748.471,
+      "total_seconds": 39717.591,
       "languages": {
-        "Other": 3636.274,
-        "Text": 112.197
+        "Other": 16629.569,
+        "Markdown": 9477.411,
+        "Python": 4221.263,
+        "Vue": 2341.032,
+        "Java": 2154.031,
+        "Text": 1446.946,
+        "Lua": 871.807,
+        "SQL": 613.249,
+        "JSON": 531.575,
+        "Git Config": 487.1,
+        "Bash": 301.142,
+        "CSS": 228.251,
+        "HTML": 178.755,
+        "TOML": 120.683,
+        "TypeScript": 114.777
       },
       "editors": {
-        "Edge": 3748.471
+        "VS Code": 19449.467,
+        "Edge": 17180.486,
+        "Claude Code": 3087.638
+      }
+    },
+    "2026-08-18": {
+      "date": "2026-08-18",
+      "total_seconds": 8525.028,
+      "languages": {
+        "Java": 4520.859,
+        "Other": 3530.888,
+        "Vue": 261.84,
+        "SQL": 98.159,
+        "TypeScript": 92.766,
+        "Markdown": 20.516
+      },
+      "editors": {
+        "VS Code": 5275.232,
+        "Edge": 3249.796
       }
     }
   },
-  "updated_at": "2026-08-17T09:55:43.423421+08:00"
+  "updated_at": "2026-08-18T09:51:35.223510+08:00"
 }
