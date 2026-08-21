@@ -2100,16 +2100,16 @@
       "date": "2026-08-16",
       "total_seconds": 19724.292,
       "languages": {
-        "Other": 18546.986,
+        "Other": 18535.488,
         "Text": 485.068,
-        "JSON": 393.301,
+        "JSON": 404.799,
         "Python": 202.132,
         "Batchfile": 96.665,
         "PowerShell": 0.14
       },
       "editors": {
-        "Edge": 16490.043,
-        "VS Code": 2624.073,
+        "Edge": 16478.545,
+        "VS Code": 2635.571,
         "Claude Code": 610.176
       }
     },
@@ -2166,25 +2166,46 @@
       "date": "2026-08-19",
       "total_seconds": 34615.342,
       "languages": {
-        "Other": 24921.716,
+        "Other": 24890.817,
         "Python": 3490.096,
         "Markdown": 3417.477,
-        "Java": 2258.621,
+        "Java": 2289.52,
         "XML": 507.733,
         "HTML": 19.699
       },
       "editors": {
-        "Edge": 24481.31,
-        "VS Code": 9905.064,
+        "Edge": 24450.411,
+        "VS Code": 9935.963,
         "Claude Code": 228.968
       }
     },
     "2026-08-20": {
       "date": "2026-08-20",
-      "total_seconds": 0.0,
-      "languages": {},
-      "editors": {}
+      "total_seconds": 13459.831,
+      "languages": {
+        "Other": 9355.845,
+        "Java": 2959.527,
+        "XML": 1144.261,
+        "SQL": 0.198
+      },
+      "editors": {
+        "Edge": 8971.705021,
+        "VS Code": 4222.48,
+        "Word": 265.645979
+      }
+    },
+    "2026-08-21": {
+      "date": "2026-08-21",
+      "total_seconds": 2632.8,
+      "languages": {
+        "Other": 2632.8
+      },
+      "editors": {
+        "Edge": 2231.062,
+        "VS Code": 372.106,
+        "Claude Code": 29.632
+      }
     }
   },
-  "updated_at": "2026-08-20T09:52:28.963741+08:00"
+  "updated_at": "2026-08-21T09:58:35.999284+08:00"
 }
