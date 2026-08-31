@@ -57,7 +57,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Aug 12 - [远程连接公司内网（Tailscale + SSH = 免费）](https://blog.grover.top/2026/08/12/%e8%bf%9c%e7%a8%8b%e8%bf%9e%e6%8e%a5%e5%85%ac%e5%8f%b8%e5%86%85%e7%bd%91%ef%bc%88tailscale-ssh-%e5%85%8d%e8%b4%b9%ef%bc%89/)
+- Aug 12 - [远程连接内网（Tailscale + SSH = 免费）vs 进阶玩法](https://blog.grover.top/2026/08/12/%e8%bf%9c%e7%a8%8b%e8%bf%9e%e6%8e%a5%e5%85%ac%e5%8f%b8%e5%86%85%e7%bd%91%ef%bc%88tailscale-ssh-%e5%85%8d%e8%b4%b9%ef%bc%89/)
 - Jul 30 - [JAVA售后系统总结](https://blog.grover.top/2026/07/30/%e5%94%ae%e5%90%8e%e7%b3%bb%e7%bb%9f%e6%80%bb%e7%bb%93%ef%bc%88ai%e7%bc%96%e7%a8%8b%e6%96%b9%e6%a1%88%ef%bc%89/)
 - Jul 26 - [平替飞书妙搭方案有二](https://blog.grover.top/2026/07/26/%e9%a3%9e%e4%b9%a6cli-claude-code-%e5%b9%b3%e6%9b%bf%e9%a3%9e%e4%b9%a6%e5%a6%99%e6%90%ad/)
 - Jul 10 - [AI工具类学习](https://blog.grover.top/2026/07/10/ai%e5%b7%a5%e5%85%b7%e5%ad%a6%e4%b9%a0/)
