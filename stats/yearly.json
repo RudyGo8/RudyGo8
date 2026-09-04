@@ -2436,17 +2436,37 @@
     },
     "2026-09-03": {
       "date": "2026-09-03",
-      "total_seconds": 10675.656,
+      "total_seconds": 28811.52,
       "languages": {
-        "Other": 10643.593,
-        "JSON": 32.063
+        "Other": 25813.716,
+        "Java": 2211.271,
+        "Markdown": 310.482,
+        "JSON": 287.892,
+        "TypeScript": 160.433,
+        "Vue": 27.726
       },
       "editors": {
-        "Edge": 9845.655,
-        "Claude Code": 784.942,
-        "VS Code": 45.059
+        "Edge": 24302.948,
+        "Claude Code": 3005.561,
+        "VS Code": 1503.011
+      }
+    },
+    "2026-09-04": {
+      "date": "2026-09-04",
+      "total_seconds": 10720.3,
+      "languages": {
+        "Other": 10455.838,
+        "Text": 206.537,
+        "JSON": 57.925,
+        "Java": 0.0
+      },
+      "editors": {
+        "Edge": 10339.55,
+        "VS Code": 203.625,
+        "Claude Code": 107.945,
+        "Codex CLI": 69.18
       }
     }
   },
-  "updated_at": "2026-09-03T12:36:31.253846+08:00"
+  "updated_at": "2026-09-04T12:37:38.752073+08:00"
 }
