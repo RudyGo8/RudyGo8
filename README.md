@@ -57,11 +57,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Sep 18 - [AI编程全流程](https://blog.grover.top/2026/09/18/ai%e7%bc%96%e7%a8%8b%e5%85%a8%e6%b5%81%e7%a8%8b/)
 - Sep 13 - [Roogoo 美国虚拟卡开通教程：用于 ChatGPT Plus 订阅（官方直充百分百无风险）](https://blog.grover.top/2026/09/13/roogoo-%e7%be%8e%e5%9b%bd%e8%99%9a%e6%8b%9f%e5%8d%a1%e5%bc%80%e9%80%9a%e6%95%99%e7%a8%8b%ef%bc%9a%e7%94%a8%e4%ba%8e-chatgpt-plus-%e8%ae%a2%e9%98%85%ef%bc%88%e5%ae%98%e6%96%b9%e7%9b%b4%e5%85%85/)
 - Aug 12 - [远程连接内网（Tailscale + SSH = 免费）vs 进阶玩法](https://blog.grover.top/2026/08/12/%e8%bf%9c%e7%a8%8b%e8%bf%9e%e6%8e%a5%e5%85%ac%e5%8f%b8%e5%86%85%e7%bd%91%ef%bc%88tailscale-ssh-%e5%85%8d%e8%b4%b9%ef%bc%89/)
 - Jul 30 - [JAVA售后系统总结](https://blog.grover.top/2026/07/30/%e5%94%ae%e5%90%8e%e7%b3%bb%e7%bb%9f%e6%80%bb%e7%bb%93%ef%bc%88ai%e7%bc%96%e7%a8%8b%e6%96%b9%e6%a1%88%ef%bc%89/)
 - Jul 26 - [平替飞书妙搭方案有二](https://blog.grover.top/2026/07/26/%e9%a3%9e%e4%b9%a6cli-claude-code-%e5%b9%b3%e6%9b%bf%e9%a3%9e%e4%b9%a6%e5%a6%99%e6%90%ad/)
-- Jul 10 - [AI工具类学习](https://blog.grover.top/2026/07/10/ai%e5%b7%a5%e5%85%b7%e5%ad%a6%e4%b9%a0/)
 <!-- feed end -->
 
 </td>
