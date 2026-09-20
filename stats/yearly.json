@@ -2761,14 +2761,29 @@
     },
     "2026-09-19": {
       "date": "2026-09-19",
-      "total_seconds": 991.446,
+      "total_seconds": 9404.449,
       "languages": {
-        "Other": 991.446
+        "Other": 9404.449
       },
       "editors": {
-        "Edge": 991.446
+        "Edge": 9404.449
+      }
+    },
+    "2026-09-20": {
+      "date": "2026-09-20",
+      "total_seconds": 8371.979,
+      "languages": {
+        "Other": 7923.146,
+        "Vue": 233.15,
+        "TypeScript": 123.475,
+        "Python": 59.306,
+        "Markdown": 32.902
+      },
+      "editors": {
+        "Edge": 7125.16,
+        "VS Code": 1246.819
       }
     }
   },
-  "updated_at": "2026-09-19T12:40:58.883921+08:00"
+  "updated_at": "2026-09-20T12:56:58.224113+08:00"
 }
