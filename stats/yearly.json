@@ -2771,41 +2771,63 @@
     },
     "2026-09-20": {
       "date": "2026-09-20",
-      "total_seconds": 27961.606,
+      "total_seconds": 31291.458,
       "languages": {
-        "Other": 21167.19,
+        "Other": 17689.873,
+        "Markdown": 7153.975,
         "Python": 2438.107,
-        "YAML": 2196.113,
+        "YAML": 2272.19,
         "Bash": 1019.758,
-        "Markdown": 793.254,
-        "TypeScript": 227.954,
-        "Vue": 119.23
+        "Text": 317.858,
+        "TypeScript": 191.337,
+        "Vue": 119.23,
+        "PowerShell": 89.13
       },
       "editors": {
-        "Edge": 18931.547,
-        "Claude Code": 4914.471,
-        "VS Code": 4115.588
+        "Edge": 15587.521,
+        "VS Code": 10789.466,
+        "Claude Code": 4914.471
       }
     },
     "2026-09-21": {
       "date": "2026-09-21",
-      "total_seconds": 10743.063,
+      "total_seconds": 27072.289,
       "languages": {
-        "Python": 4667.806,
-        "Other": 2879.612,
-        "Vue": 1449.269,
-        "TypeScript": 1149.246,
-        "Markdown": 428.266,
-        "Git Config": 97.62,
-        "Bash": 71.244
+        "Other": 10945.51,
+        "Python": 7048.196,
+        "Vue": 3491.803,
+        "TypeScript": 2890.717,
+        "Markdown": 1138.244,
+        "JSON": 674.289,
+        "SQL": 657.209,
+        "Bash": 128.701,
+        "Git Config": 97.62
       },
       "editors": {
-        "Claude Code": 5373.616,
-        "Edge": 2851.904,
-        "VS Code": 1300.821,
-        "Codex Vscode": 1216.722
+        "Claude Code": 9788.928,
+        "Edge": 9788.443,
+        "Codex Vscode": 4704.336,
+        "VS Code": 2790.582
+      }
+    },
+    "2026-09-22": {
+      "date": "2026-09-22",
+      "total_seconds": 9973.796,
+      "languages": {
+        "Other": 4818.628,
+        "Bash": 2032.943,
+        "TypeScript": 1698.441,
+        "Python": 1072.719,
+        "Markdown": 299.006,
+        "Vue": 50.514,
+        "JavaScript": 1.545
+      },
+      "editors": {
+        "Edge": 5146.694,
+        "VS Code": 3811.885,
+        "Codex Vscode": 1015.217
       }
     }
   },
-  "updated_at": "2026-09-21T13:00:10.826689+08:00"
+  "updated_at": "2026-09-22T13:00:54.828743+08:00"
 }
