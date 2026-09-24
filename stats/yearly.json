@@ -2836,16 +2836,36 @@
     },
     "2026-09-23": {
       "date": "2026-09-23",
-      "total_seconds": 11551.774,
+      "total_seconds": 32484.561,
       "languages": {
-        "Other": 8457.946,
-        "Python": 3093.828
+        "Other": 16683.435,
+        "Python": 9462.935,
+        "Markdown": 6087.116,
+        "TOML": 251.075
       },
       "editors": {
-        "Edge": 7746.867,
-        "VS Code": 3804.907
+        "Edge": 14265.744,
+        "Codex Vscode": 9778.877,
+        "VS Code": 8439.94
+      }
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "total_seconds": 8993.84,
+      "languages": {
+        "Markdown": 3684.909,
+        "Other": 2573.146,
+        "Python": 1475.343,
+        "Vue": 648.563,
+        "TypeScript": 611.879
+      },
+      "editors": {
+        "Codex Vscode": 5285.681,
+        "Edge": 2573.146,
+        "Claude Code": 595.339,
+        "VS Code": 539.674
       }
     }
   },
-  "updated_at": "2026-09-23T12:48:30.035579+08:00"
+  "updated_at": "2026-09-24T12:55:54.089238+08:00"
 }
