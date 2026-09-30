@@ -2916,20 +2916,47 @@
     },
     "2026-09-29": {
       "date": "2026-09-29",
-      "total_seconds": 12730.8,
+      "total_seconds": 31922.145,
       "languages": {
-        "Other": 11289.79,
-        "Vue": 1106.749,
-        "Markdown": 153.477,
-        "TypeScript": 92.665,
-        "Python": 88.119
+        "Other": 22922.414,
+        "Bash": 2939.438,
+        "Python": 1429.2,
+        "Markdown": 1154.912,
+        "Vue": 1117.016,
+        "YAML": 1072.828,
+        "Text": 511.662,
+        "Docker": 398.062,
+        "Git Config": 232.445,
+        "TypeScript": 113.741,
+        "TOML": 30.427
       },
       "editors": {
-        "Edge": 11316.93,
-        "Codex Vscode": 1404.165,
-        "VS Code": 9.705
+        "Edge": 21834.472,
+        "Codex Vscode": 8352.698,
+        "VS Code": 1728.422,
+        "Claude Code": 6.553
+      }
+    },
+    "2026-09-30": {
+      "date": "2026-09-30",
+      "total_seconds": 12770.583,
+      "languages": {
+        "Other": 3405.037,
+        "Markdown": 3341.892,
+        "YAML": 2570.962,
+        "Bash": 1819.196,
+        "Git Config": 662.135,
+        "Docker": 628.162,
+        "Python": 288.988,
+        "TypeScript": 41.976,
+        "Nginx configuration file": 12.235
+      },
+      "editors": {
+        "Codex Vscode": 6798.436,
+        "VS Code": 4267.437,
+        "Edge": 1704.71
       }
     }
   },
-  "updated_at": "2026-09-29T13:47:04.822069+08:00"
+  "updated_at": "2026-09-30T13:36:29.240528+08:00"
 }
