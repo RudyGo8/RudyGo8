@@ -3048,10 +3048,32 @@
     },
     "2026-10-07": {
       "date": "2026-10-07",
-      "total_seconds": 0.0,
-      "languages": {},
-      "editors": {}
+      "total_seconds": 7310.479,
+      "languages": {
+        "Other": 7239.55,
+        "Markdown": 70.929
+      },
+      "editors": {
+        "Edge": 7310.479
+      }
+    },
+    "2026-10-08": {
+      "date": "2026-10-08",
+      "total_seconds": 13902.424,
+      "languages": {
+        "Other": 11802.701,
+        "Python": 1911.264,
+        "Markdown": 104.836,
+        "Bash": 53.899,
+        "JSON": 29.724
+      },
+      "editors": {
+        "Edge": 7135.187,
+        "VS Code": 2585.383,
+        "Claude Code": 2241.243,
+        "Codex Vscode": 1940.611
+      }
     }
   },
-  "updated_at": "2026-10-07T14:04:16.644643+08:00"
+  "updated_at": "2026-10-08T14:09:34.281760+08:00"
 }
