@@ -3106,22 +3106,31 @@
     },
     "2026-10-10": {
       "date": "2026-10-10",
-      "total_seconds": 12140.086,
+      "total_seconds": 22703.833,
       "languages": {
-        "Other": 11006.09,
-        "Bash": 541.996,
-        "Python": 333.155,
-        "Markdown": 224.083,
-        "YAML": 26.212,
-        "Git": 8.55
+        "Other": 15287.801,
+        "Python": 2896.912,
+        "Markdown": 2273.536,
+        "Bash": 1657.028,
+        "YAML": 405.763,
+        "TypeScript": 146.17,
+        "Docker": 25.211,
+        "Git": 8.55,
+        "Git Config": 2.862
       },
       "editors": {
-        "Edge": 10087.264,
-        "VS Code": 948.504,
-        "Claude Code": 646.856,
-        "Codex Vscode": 457.462
+        "Edge": 14522.119,
+        "Codex Vscode": 5403.715,
+        "VS Code": 2131.143,
+        "Claude Code": 646.856
       }
+    },
+    "2026-10-11": {
+      "date": "2026-10-11",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-10-10T13:56:34.732490+08:00"
+  "updated_at": "2026-10-11T13:51:40.640506+08:00"
 }
