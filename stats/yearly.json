@@ -3211,22 +3211,28 @@
     },
     "2026-10-16": {
       "date": "2026-10-16",
-      "total_seconds": 15328.896,
+      "total_seconds": 38132.682,
       "languages": {
-        "Other": 7628.221,
-        "Python": 3543.053,
+        "Other": 25066.016,
+        "Python": 8189.201,
         "Markdown": 2276.043,
+        "Bash": 969.666,
         "Vue": 900.362,
-        "TypeScript": 571.976,
-        "Bash": 409.241
+        "TypeScript": 731.394
       },
       "editors": {
-        "Edge": 6774.445,
-        "Codex Vscode": 5563.865,
-        "VS Code": 2968.684,
+        "Edge": 21770.06,
+        "Codex Vscode": 12702.411,
+        "VS Code": 3638.309,
         "Claude Code": 21.902
       }
+    },
+    "2026-10-17": {
+      "date": "2026-10-17",
+      "total_seconds": 0.0,
+      "languages": {},
+      "editors": {}
     }
   },
-  "updated_at": "2026-10-16T12:35:49.036279+08:00"
+  "updated_at": "2026-10-17T12:31:57.855198+08:00"
 }
