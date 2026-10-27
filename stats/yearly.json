@@ -3383,19 +3383,33 @@
     },
     "2026-10-26": {
       "date": "2026-10-26",
-      "total_seconds": 10848.575,
+      "total_seconds": 35093.424,
       "languages": {
-        "Other": 9753.528,
+        "Other": 32616.349,
+        "Python": 965.372,
         "YAML": 910.119,
-        "Bash": 164.597,
+        "Markdown": 413.641,
+        "Bash": 167.612,
         "XML": 20.331
       },
       "editors": {
-        "Edge": 10230.884,
-        "VS Code": 558.126,
-        "Codex Vscode": 59.565
+        "Edge": 32070.906,
+        "VS Code": 2055.99,
+        "Codex Vscode": 966.528
+      }
+    },
+    "2026-10-27": {
+      "date": "2026-10-27",
+      "total_seconds": 10825.197,
+      "languages": {
+        "Other": 10710.798,
+        "Markdown": 114.399
+      },
+      "editors": {
+        "Edge": 10320.878,
+        "Codex Vscode": 504.319
       }
     }
   },
-  "updated_at": "2026-10-26T12:51:55.564045+08:00"
+  "updated_at": "2026-10-27T13:10:01.148059+08:00"
 }
