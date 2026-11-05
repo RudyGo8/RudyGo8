@@ -57,11 +57,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/RudyGo8/RudyGo8/assets/images/astronaut.png" />
 
 <!-- feed start -->
+- Nov 04 - [AI预测模型](https://blog.grover.top/2026/11/04/ai%e9%a2%84%e6%b5%8b%e6%a8%a1%e5%9e%8b/)
 - Oct 28 - [Git版本管理命令](https://blog.grover.top/2026/10/28/git%e7%89%88%e6%9c%ac%e7%ae%a1%e7%90%86%e5%91%bd%e4%bb%a4/)
 - Oct 10 - [数字化项目部署全流程 spug + sopsystem + pgsql + redisdb](https://blog.grover.top/2026/10/10/%e6%95%b0%e5%ad%97%e5%8c%96%e9%a1%b9%e7%9b%ae%e9%83%a8%e7%bd%b2%e5%85%a8%e6%b5%81%e7%a8%8b-spug-sopsystem-pgsql-redisdb/)
 - Oct 08 - [软硬件维护](https://blog.grover.top/2026/10/08/%e6%97%a5%e5%b8%b8%e9%97%ae%e9%a2%98%e6%b1%87%e6%80%bb/)
 - Sep 18 - [AI编程全流程](https://blog.grover.top/2026/09/18/ai%e7%bc%96%e7%a8%8b%e5%85%a8%e6%b5%81%e7%a8%8b/)
-- Sep 13 - [Roogoo 美国虚拟卡开通教程：用于 ChatGPT Plus 订阅（官方直充百分百无风险）](https://blog.grover.top/2026/09/13/roogoo-%e7%be%8e%e5%9b%bd%e8%99%9a%e6%8b%9f%e5%8d%a1%e5%bc%80%e9%80%9a%e6%95%99%e7%a8%8b%ef%bc%9a%e7%94%a8%e4%ba%8e-chatgpt-plus-%e8%ae%a2%e9%98%85%ef%bc%88%e5%ae%98%e6%96%b9%e7%9b%b4%e5%85%85/)
 <!-- feed end -->
 
 </td>
