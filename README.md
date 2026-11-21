@@ -61,7 +61,7 @@
 - Oct 28 - [Git版本管理命令](https://blog.grover.top/2026/10/28/git%e7%89%88%e6%9c%ac%e7%ae%a1%e7%90%86%e5%91%bd%e4%bb%a4/)
 - Oct 10 - [数字化项目部署全流程 spug + sopsystem + pgsql + redisdb](https://blog.grover.top/2026/10/10/%e6%95%b0%e5%ad%97%e5%8c%96%e9%a1%b9%e7%9b%ae%e9%83%a8%e7%bd%b2%e5%85%a8%e6%b5%81%e7%a8%8b-spug-sopsystem-pgsql-redisdb/)
 - Oct 08 - [软硬件维护](https://blog.grover.top/2026/10/08/%e6%97%a5%e5%b8%b8%e9%97%ae%e9%a2%98%e6%b1%87%e6%80%bb/)
-- Sep 18 - [AI编程全流程](https://blog.grover.top/2026/09/18/ai%e7%bc%96%e7%a8%8b%e5%85%a8%e6%b5%81%e7%a8%8b/)
+- Sep 18 - [AI 编程全流程实践范式](https://blog.grover.top/2026/09/18/ai%e7%bc%96%e7%a8%8b%e5%85%a8%e6%b5%81%e7%a8%8b/)
 <!-- feed end -->
 
 </td>
