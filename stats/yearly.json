@@ -3487,7 +3487,168 @@
       "editors": {
         "Edge": 1072.567
       }
+    },
+    "2026-11-16": {
+      "date": "2026-11-16",
+      "total_seconds": 46401.405,
+      "languages": {
+        "Other": 19463.24,
+        "Python": 12431.163,
+        "Vue": 5548.494,
+        "Markdown": 4767.507,
+        "TypeScript": 2586.261,
+        "Bash": 505.139,
+        "Git": 338.62,
+        "YAML": 241.421,
+        "Git Config": 235.808,
+        "JSON": 123.904,
+        "JavaScript": 82.734,
+        "TOML": 62.478,
+        "HTML": 5.805,
+        "SCSS": 4.209,
+        "Text": 2.406,
+        "CSS": 2.216
+      },
+      "editors": {
+        "Edge": 18384.022,
+        "VS Code": 11279.493,
+        "Codex Vscode": 11263.986,
+        "Claude Code": 5473.904
+      }
+    },
+    "2026-11-17": {
+      "date": "2026-11-17",
+      "total_seconds": 51646.554,
+      "languages": {
+        "Other": 20820.833,
+        "Python": 16755.343,
+        "Vue": 4220.269,
+        "TypeScript": 3352.857,
+        "Markdown": 3033.992,
+        "Text": 935.187,
+        "Docker": 925.397,
+        "Bash": 805.828,
+        "JSON": 597.951,
+        "JavaScript": 131.275,
+        "HTML": 41.163,
+        "Git": 19.858,
+        "SCSS": 6.601
+      },
+      "editors": {
+        "VS Code": 21996.403,
+        "Edge": 17652.178,
+        "Claude Code": 10091.678,
+        "Codex Vscode": 1906.295
+      }
+    },
+    "2026-11-18": {
+      "date": "2026-11-18",
+      "total_seconds": 56848.919,
+      "languages": {
+        "Other": 23607.825,
+        "Python": 12039.587,
+        "Markdown": 10040.688,
+        "JSON": 3609.208,
+        "TypeScript": 2086.138,
+        "JavaScript": 1505.02,
+        "Vue": 1448.123,
+        "YAML": 1170.623,
+        "Text": 1116.146,
+        "Bash": 143.652,
+        "Git Config": 49.088,
+        "TOML": 32.821
+      },
+      "editors": {
+        "Edge": 22723.275,
+        "Claude Code": 21580.384,
+        "Codex Vscode": 6814.187,
+        "VS Code": 5731.073
+      }
+    },
+    "2026-11-19": {
+      "date": "2026-11-19",
+      "total_seconds": 45718.837,
+      "languages": {
+        "Other": 21470.922,
+        "Python": 11498.146,
+        "Markdown": 7431.092,
+        "TOML": 1764.219,
+        "Bash": 1276.456,
+        "TypeScript": 895.891,
+        "Vue": 760.593,
+        "JSON": 414.417,
+        "Text": 132.678,
+        "YAML": 44.738,
+        "Nginx configuration file": 21.818,
+        "Git Config": 5.227,
+        "Docker": 2.471,
+        "SCSS": 0.169
+      },
+      "editors": {
+        "Edge": 21165.525,
+        "VS Code": 14216.554,
+        "Claude Code": 9809.399,
+        "Codex Vscode": 527.359
+      }
+    },
+    "2026-11-20": {
+      "date": "2026-11-20",
+      "total_seconds": 47132.859,
+      "languages": {
+        "Other": 18893.044,
+        "Python": 11500.434,
+        "Markdown": 4677.271,
+        "Vue": 3398.422,
+        "TypeScript": 2460.872,
+        "Bash": 2105.065,
+        "Svelte": 2007.839,
+        "Git Config": 730.845,
+        "PowerShell": 708.923,
+        "JSON": 227.794,
+        "Text": 185.885,
+        "JavaScript": 102.536,
+        "HTML": 49.371,
+        "YAML": 44.935,
+        "INI": 15.034,
+        "Image (svg)": 13.292,
+        "TOML": 6.435,
+        "CSS": 4.221,
+        "TSConfig": 0.641
+      },
+      "editors": {
+        "Edge": 18692.547,
+        "Claude Code": 13733.938,
+        "VS Code": 13499.446,
+        "Codex Vscode": 1206.928
+      }
+    },
+    "2026-11-21": {
+      "date": "2026-11-21",
+      "total_seconds": 24147.197,
+      "languages": {
+        "Other": 22148.737,
+        "Python": 1900.207,
+        "Vue": 89.548,
+        "Markdown": 4.435,
+        "YAML": 4.27
+      },
+      "editors": {
+        "Edge": 20429.378,
+        "Claude Code": 2726.207,
+        "Codex Vscode": 893.345,
+        "VS Code": 98.267
+      }
+    },
+    "2026-11-22": {
+      "date": "2026-11-22",
+      "total_seconds": 251.753,
+      "languages": {
+        "Other": 251.753
+      },
+      "editors": {
+        "Edge": 251.753
+      }
     }
   },
-  "updated_at": "2026-11-01T14:11:54.130705+08:00"
+  "updated_at": "2026-11-22T14:55:21.279959+08:00"
 }
