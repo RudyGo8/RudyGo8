@@ -3673,24 +3673,41 @@
     },
     "2026-11-24": {
       "date": "2026-11-24",
-      "total_seconds": 30856.872,
+      "total_seconds": 40800.438,
       "languages": {
-        "Other": 10439.417,
-        "JSON": 5314.734,
-        "Python": 4907.098,
-        "Markdown": 4599.076,
+        "Other": 18439.44,
+        "JSON": 5349.2,
+        "Python": 4936.533,
+        "Markdown": 4775.119,
+        "Vue": 2744.066,
+        "TypeScript": 1817.502,
         "YAML": 1755.073,
-        "Vue": 1587.277,
-        "TypeScript": 1270.692,
         "Text": 983.505
       },
       "editors": {
-        "VS Code": 9868.402,
-        "Edge": 9719.861,
-        "Claude Code": 6775.588,
+        "Edge": 17719.884,
+        "VS Code": 11728.797,
+        "Claude Code": 6858.736,
         "Codex Vscode": 4493.021
+      }
+    },
+    "2026-11-25": {
+      "date": "2026-11-25",
+      "total_seconds": 25400.922,
+      "languages": {
+        "Other": 20036.293,
+        "Vue": 2379.891,
+        "TypeScript": 2012.565,
+        "Python": 516.04,
+        "Markdown": 261.315,
+        "Bash": 194.818
+      },
+      "editors": {
+        "Edge": 17626.756,
+        "VS Code": 5806.954,
+        "Claude Code": 1967.212
       }
     }
   },
-  "updated_at": "2026-11-24T17:58:00.435555+08:00"
+  "updated_at": "2026-11-25T16:40:46.714423+08:00"
 }
