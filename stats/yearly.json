@@ -3693,21 +3693,49 @@
     },
     "2026-11-25": {
       "date": "2026-11-25",
-      "total_seconds": 25400.922,
+      "total_seconds": 50822.07,
       "languages": {
-        "Other": 20036.293,
-        "Vue": 2379.891,
-        "TypeScript": 2012.565,
-        "Python": 516.04,
-        "Markdown": 261.315,
-        "Bash": 194.818
+        "Other": 32190.088,
+        "Bash": 3904.793,
+        "Python": 3789.985,
+        "Vue": 3258.638,
+        "TypeScript": 2625.588,
+        "Markdown": 2202.493,
+        "YAML": 1414.73,
+        "Git Config": 1348.255,
+        "Text": 47.926,
+        "SCSS": 39.574
       },
       "editors": {
-        "Edge": 17626.756,
-        "VS Code": 5806.954,
-        "Claude Code": 1967.212
+        "Edge": 30876.543,
+        "Claude Code": 9539.307,
+        "VS Code": 8980.171,
+        "Codex Vscode": 1426.049
+      }
+    },
+    "2026-11-26": {
+      "date": "2026-11-26",
+      "total_seconds": 22012.662,
+      "languages": {
+        "Other": 9768.961,
+        "Markdown": 6810.921,
+        "Python": 4472.293,
+        "Git": 266.754,
+        "Text": 223.004,
+        "JSON": 153.094,
+        "YAML": 133.735,
+        "Bash": 100.626,
+        "Vue": 39.18,
+        "TypeScript": 29.068,
+        "Git Config": 15.026
+      },
+      "editors": {
+        "Claude Code": 12140.395,
+        "Edge": 9126.112,
+        "VS Code": 420.714,
+        "Codex Vscode": 325.441
       }
     }
   },
-  "updated_at": "2026-11-25T16:40:46.714423+08:00"
+  "updated_at": "2026-11-26T16:25:40.395564+08:00"
 }
